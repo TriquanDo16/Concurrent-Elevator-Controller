@@ -1,0 +1,3189 @@
+Starting passenger 0
+Starting passenger 1
+Starting passenger 2
+Starting passenger 3
+Starting passenger 4
+Starting passenger 5
+Starting passenger 6
+Starting passenger 7
+Starting passenger 8
+Starting passenger 10
+Starting passenger 11
+Starting passenger 12
+Starting passenger 13
+Starting passenger 14
+Starting passenger 15
+Starting passenger 16
+Starting passenger 17
+Starting passenger 18
+Starting passenger 19
+Starting passenger 20
+Starting passenger 21
+Starting passenger 22
+Starting passenger 23
+Starting passenger 24
+Starting passenger 25
+Starting passenger 26
+Starting passenger 27
+Starting passenger 28
+Starting passenger 29
+Starting passenger 30
+Starting passenger 31
+Starting passenger 32
+Starting passenger 33
+Starting passenger 34
+Starting passenger 35
+Starting passenger 36
+Starting passenger 37
+Starting passenger 38
+Starting passenger 39
+Starting passenger 40
+Starting passenger 41
+Starting passenger 47
+Starting passenger 48
+Starting passenger 46
+Starting passenger 45
+Starting passenger 44
+Starting passenger 43
+Starting passenger 42
+Starting passenger 9
+Starting passenger 49
+Passenger 0 requesting 15->17
+Passenger 21 requesting 3->26
+Starting elevator 0
+Starting elevator 1
+Passenger 42 requesting 16->7
+Starting elevator 3
+Starting elevator 2
+Passenger 6 requesting 10->8
+Passenger 13 requesting 6->8
+Passenger 14 requesting 11->9
+Passenger 16 requesting 14->18
+Passenger 17 requesting 24->18
+Passenger 18 requesting 22->8
+Passenger 15 requesting 27->17
+Passenger 8 requesting 1->9
+Passenger 3 requesting 19->13
+Passenger 22 requesting 0->4
+Passenger 2 requesting 9->19
+Passenger 19 requesting 16->24
+Passenger 26 requesting 26->5
+Passenger 4 requesting 1->26
+Passenger 10 requesting 17->25
+Passenger 30 requesting 19->17
+Passenger 12 requesting 19->21
+Passenger 36 requesting 23->12
+Passenger 11 requesting 2->3
+Passenger 24 requesting 9->2
+Passenger 20 requesting 16->17
+Passenger 25 requesting 2->10
+Passenger 29 requesting 15->23
+Passenger 31 requesting 5->18
+Passenger 35 requesting 17->0
+Passenger 34 requesting 26->23
+Passenger 41 requesting 1->14
+Passenger 37 requesting 1->7
+Passenger 33 requesting 10->24
+Passenger 28 requesting 27->12
+Passenger 49 requesting 22->14
+Passenger 46 requesting 7->4
+Passenger 27 requesting 26->4
+Passenger 38 requesting 0->7
+Passenger 32 requesting 14->23
+Passenger 39 requesting 23->22
+Passenger 40 requesting 2->15
+Passenger 1 requesting 18->12
+Passenger 5 requesting 3->4
+Passenger 23 requesting 19->12
+Passenger 48 requesting 5->0
+Passenger 43 requesting 6->7
+Passenger 44 requesting 17->8
+Passenger 47 requesting 25->18
+Passenger 45 requesting 20->6
+Passenger 9 requesting 23->18
+Passenger 7 requesting 16->7
+Moving elevator 0 up from 0
+Moving elevator 1 up from 0
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 0 up from 0
+Moving elevator 0 up from 1
+Moving elevator 1 up from 0
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 1 down from 1
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Moving elevator 1 down from 1
+Moving elevator 3 down from 1
+Moving elevator 1 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 0 up from 2
+Moving elevator 0 up from 3
+Moving elevator 1 up from 0
+Moving elevator 1 up from 1
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 3 up from 1
+Moving elevator 2 up from 1
+Moving elevator 0 up from 3
+Moving elevator 0 up from 4
+Moving elevator 1 up from 1
+Moving elevator 1 up from 2
+Moving elevator 3 up from 1
+Moving elevator 3 up from 2
+Moving elevator 2 up from 1
+Moving elevator 2 up from 2
+Moving elevator 0 up from 4
+Moving elevator 0 up from 5
+Moving elevator 1 up from 2
+Opening elevator 1 at floor 3
+Moving elevator 3 up from 2
+Moving elevator 2 up from 2
+Moving elevator 3 up from 3
+Moving elevator 2 up from 3
+Moving elevator 0 up from 5
+Moving elevator 0 up from 6
+Moving elevator 3 up from 3
+Moving elevator 2 up from 3
+Moving elevator 3 up from 4
+Moving elevator 2 up from 4
+Moving elevator 0 up from 6
+Moving elevator 0 up from 7
+Moving elevator 3 up from 4
+Moving elevator 2 up from 4
+Moving elevator 3 up from 5
+Moving elevator 2 up from 5
+Moving elevator 0 up from 7
+Moving elevator 0 up from 8
+Moving elevator 3 up from 5
+Moving elevator 2 up from 5
+Moving elevator 3 up from 6
+Moving elevator 2 up from 6
+Moving elevator 0 up from 8
+Moving elevator 0 up from 9
+Moving elevator 3 up from 6
+Moving elevator 2 up from 6
+Moving elevator 3 up from 7
+Moving elevator 2 up from 7
+Moving elevator 0 up from 9
+Moving elevator 0 up from 10
+Moving elevator 3 up from 7
+Moving elevator 2 up from 7
+Moving elevator 3 up from 8
+Moving elevator 2 up from 8
+Moving elevator 0 up from 10
+Moving elevator 0 up from 11
+Moving elevator 3 up from 8
+Moving elevator 2 up from 8
+Moving elevator 3 up from 9
+Moving elevator 2 up from 9
+Moving elevator 0 up from 11
+Moving elevator 0 up from 12
+Moving elevator 3 up from 9
+Moving elevator 2 up from 9
+Moving elevator 3 up from 10
+Moving elevator 2 up from 10
+Moving elevator 0 up from 12
+Moving elevator 0 up from 13
+Moving elevator 3 up from 10
+Moving elevator 2 up from 10
+Opening elevator 1 at floor 3
+Check capacity:  1 -> 0
+Moving elevator 2 up from 11
+Moving elevator 3 up from 11
+Moving elevator 0 up from 13
+Moving elevator 0 up from 14
+Passenger 21 got on elevator 1 at 3, requested 3
+Moving elevator 2 up from 11
+Check passenger 5 on floor 3-th : can-on: 0 - can off: 0
+Check passenger 21 on floor 3-th : can-on: 0 - can off: 0
+Moving elevator 3 up from 11
+Moving elevator 2 up from 12
+Closing elevator 1 at floor 3
+Moving elevator 3 up from 12
+Moving elevator 0 up from 14
+Opening elevator 0 at floor 15
+Moving elevator 2 up from 12
+Moving elevator 2 up from 13
+Moving elevator 3 up from 12
+Moving elevator 3 up from 13
+Moving elevator 2 up from 13
+Moving elevator 2 up from 14
+Moving elevator 3 up from 13
+Moving elevator 3 up from 14
+Moving elevator 2 up from 14
+Moving elevator 2 up from 15
+Moving elevator 3 up from 14
+Moving elevator 3 up from 15
+Moving elevator 2 up from 15
+Opening elevator 2 at floor 16
+Moving elevator 3 up from 15
+Moving elevator 3 up from 16
+Moving elevator 3 up from 16
+Moving elevator 3 up from 17
+Moving elevator 3 up from 17
+Moving elevator 3 up from 18
+Moving elevator 3 up from 18
+Moving elevator 3 up from 19
+Moving elevator 3 up from 19
+Moving elevator 3 up from 20
+Moving elevator 1 up from 3
+Opening elevator 0 at floor 15
+Check passenger 0 on floor 15-th : can-on: 1 - can off: 0
+Check capacity:  0 -> 0
+Moving elevator 3 up from 20
+Moving elevator 3 up from 21
+Moving elevator 1 up from 3
+Moving elevator 1 up from 4
+Passenger 0 got on elevator 0 at 15, requested 15
+Check passenger 29 on floor 15-th : can-on: 0 - can off: 0
+Moving elevator 3 up from 21
+Closing elevator 0 at floor 15
+Moving elevator 3 up from 22
+Moving elevator 1 up from 4
+Moving elevator 1 up from 5
+Moving elevator 3 up from 22
+Moving elevator 3 up from 23
+Moving elevator 1 up from 5
+Moving elevator 1 up from 6
+Moving elevator 3 up from 23
+Moving elevator 3 up from 24
+Moving elevator 1 up from 6
+Moving elevator 1 up from 7
+Opening elevator 2 at floor 16
+Check capacity:  2 -> 0
+Moving elevator 3 up from 24
+Moving elevator 3 up from 25
+Moving elevator 1 up from 7
+Passenger 42 got on elevator 2 at 16, requested 16
+Moving elevator 1 up from 8
+Check passenger 7 on floor 16-th : can-on: 0 - can off: 0
+Check passenger 19 on floor 16-th : can-on: 0 - can off: 0
+Check passenger 20 on floor 16-th : can-on: 0 - can off: 0
+Check passenger 42 on floor 16-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 16
+Moving elevator 3 up from 25
+Moving elevator 3 up from 26
+Moving elevator 1 up from 8
+Moving elevator 1 up from 9
+Moving elevator 3 up from 26
+Opening elevator 3 at floor 27
+Moving elevator 1 up from 9
+Moving elevator 1 up from 10
+Moving elevator 1 up from 10
+Moving elevator 1 up from 11
+Moving elevator 1 up from 11
+Moving elevator 1 up from 12
+Moving elevator 1 up from 12
+Moving elevator 1 up from 13
+Moving elevator 0 up from 15
+Moving elevator 1 up from 13
+Moving elevator 1 up from 14
+Moving elevator 0 up from 15
+Moving elevator 0 up from 16
+Moving elevator 1 up from 14
+Moving elevator 1 up from 15
+Moving elevator 0 up from 16
+Opening elevator 0 at floor 17
+Moving elevator 1 up from 15
+Moving elevator 1 up from 16
+Moving elevator 2 up from 16
+Moving elevator 1 up from 16
+Moving elevator 1 up from 17
+Moving elevator 2 up from 16
+Moving elevator 2 down from 17
+Opening elevator 3 at floor 27
+Check capacity:  3 -> 0
+Moving elevator 1 up from 17
+Moving elevator 2 down from 17
+Moving elevator 1 up from 18
+Moving elevator 2 down from 16
+Passenger 15 got on elevator 3 at 27, requested 27
+Moving elevator 1 up from 18
+Check passenger 15 on floor 27-th : can-on: 0 - can off: 0
+Check passenger 28 on floor 27-th : can-on: 0 - can off: 0
+Moving elevator 1 up from 19
+Closing elevator 3 at floor 27
+Moving elevator 2 down from 16
+Moving elevator 2 down from 15
+Moving elevator 1 up from 19
+Moving elevator 1 up from 20
+Moving elevator 2 down from 15
+Moving elevator 2 down from 14
+Moving elevator 1 up from 20
+Moving elevator 1 up from 21
+Moving elevator 2 down from 14
+Moving elevator 2 down from 13
+Moving elevator 1 up from 21
+Moving elevator 1 up from 22
+Moving elevator 2 down from 13
+Moving elevator 2 down from 12
+Moving elevator 1 up from 22
+Moving elevator 1 up from 23
+Moving elevator 2 down from 12
+Moving elevator 2 down from 11
+Opening elevator 0 at floor 17
+Check capacity:  0 -> 1
+Moving elevator 1 up from 23
+Moving elevator 1 up from 24
+Moving elevator 2 down from 11
+Moving elevator 2 down from 10
+Passenger 0 got off elevator 0 at 17, requested 17
+Passenger 0 trip duration 568 ms, 56 slots
+Check passenger 10 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 35 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 44 on floor 17-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 17
+Moving elevator 1 up from 24
+Moving elevator 1 up from 25
+Moving elevator 2 down from 10
+Moving elevator 2 down from 9
+Moving elevator 1 up from 25
+Opening elevator 1 at floor 26
+Moving elevator 2 down from 9
+Moving elevator 2 down from 8
+Moving elevator 2 down from 8
+Opening elevator 2 at floor 7
+Moving elevator 3 down from 27
+Moving elevator 3 down from 27
+Moving elevator 3 down from 26
+Moving elevator 3 down from 26
+Moving elevator 3 down from 25
+Moving elevator 3 down from 25
+Moving elevator 3 down from 24
+Moving elevator 3 down from 24
+Moving elevator 3 down from 23
+Moving elevator 3 down from 23
+Moving elevator 3 down from 22
+Moving elevator 0 up from 17
+Moving elevator 3 down from 22
+Moving elevator 3 down from 21
+Moving elevator 0 up from 17
+Moving elevator 0 down from 18
+Opening elevator 1 at floor 26
+Check capacity:  1 -> 1
+Moving elevator 3 down from 21
+Moving elevator 3 down from 20
+Moving elevator 0 down from 18
+Moving elevator 0 down from 17
+Passenger 21 got off elevator 1 at 26, requested 26
+Check passenger 26 on floor 26-th : can-on: 0 - can off: 0
+Check passenger 27 on floor 26-th : can-on: 0 - can off: 0
+Check passenger 34 on floor 26-th : can-on: 0 - can off: 0
+Passenger 21 trip duration 701 ms, 70 slots
+Opening elevator 2 at floor 7
+Check capacity:  2 -> 1
+Closing elevator 1 at floor 26
+Moving elevator 3 down from 20
+Moving elevator 3 down from 19
+Moving elevator 0 down from 17
+Moving elevator 0 down from 16
+Passenger 42 got off elevator 2 at 7, requested 7
+Passenger 42 trip duration 715 ms, 71 slots
+Check passenger 46 on floor 7-th : can-on: 0 - can off: 0
+Moving elevator 3 down from 19
+Closing elevator 2 at floor 7
+Moving elevator 0 down from 16
+Moving elevator 3 down from 18
+Moving elevator 0 down from 15
+Moving elevator 3 down from 18
+Opening elevator 3 at floor 17
+Moving elevator 0 down from 15
+Opening elevator 0 at floor 14
+Moving elevator 1 up from 26
+Moving elevator 1 up from 26
+Moving elevator 1 down from 27
+Moving elevator 2 up from 7
+Moving elevator 1 down from 27
+Moving elevator 1 down from 26
+Moving elevator 2 up from 7
+Moving elevator 2 up from 8
+Opening elevator 0 at floor 14
+Check capacity:  0 -> 0
+Opening elevator 3 at floor 17
+Check capacity:  3 -> 1
+Moving elevator 1 down from 26
+Moving elevator 1 down from 25
+Moving elevator 2 up from 8
+Moving elevator 2 up from 9
+Passenger 15 got off elevator 3 at 17, requested 17
+Passenger 15 trip duration 843 ms, 84 slots
+Check passenger 10 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 35 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 44 on floor 17-th : can-on: 0 - can off: 0
+Passenger 16 got on elevator 0 at 14, requested 14
+Check passenger 16 on floor 14-th : can-on: 0 - can off: 0
+Check passenger 32 on floor 14-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 17
+Closing elevator 0 at floor 14
+Moving elevator 1 down from 25
+Moving elevator 1 down from 24
+Moving elevator 2 up from 9
+Opening elevator 2 at floor 10
+Moving elevator 1 down from 24
+Moving elevator 1 down from 23
+Moving elevator 1 down from 23
+Moving elevator 1 down from 22
+Moving elevator 1 down from 22
+Moving elevator 1 down from 21
+Moving elevator 1 down from 21
+Moving elevator 1 down from 20
+Moving elevator 1 down from 20
+Moving elevator 1 down from 19
+Moving elevator 1 down from 19
+Moving elevator 1 down from 18
+Moving elevator 1 down from 18
+Moving elevator 1 down from 17
+Moving elevator 3 up from 17
+Moving elevator 0 up from 14
+Moving elevator 1 down from 17
+Moving elevator 1 down from 16
+Opening elevator 2 at floor 10
+Check capacity:  2 -> 0
+Moving elevator 3 up from 17
+Moving elevator 3 down from 18
+Moving elevator 0 up from 14
+Moving elevator 0 up from 15
+Moving elevator 1 down from 16
+Moving elevator 1 down from 15
+Passenger 6 got on elevator 2 at 10, requested 10
+Check passenger 6 on floor 10-th : can-on: 0 - can off: 0
+Check passenger 33 on floor 10-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 10
+Moving elevator 3 down from 18
+Moving elevator 3 up from 17
+Moving elevator 0 up from 15
+Moving elevator 0 up from 16
+Moving elevator 1 down from 15
+Moving elevator 1 down from 14
+Moving elevator 3 up from 17
+Moving elevator 3 up from 18
+Moving elevator 0 up from 16
+Moving elevator 0 up from 17
+Moving elevator 1 down from 14
+Moving elevator 1 down from 13
+Moving elevator 3 up from 18
+Opening elevator 3 at floor 19
+Moving elevator 0 up from 17
+Opening elevator 0 at floor 18
+Moving elevator 1 down from 13
+Moving elevator 1 down from 12
+Moving elevator 1 down from 12
+Moving elevator 1 down from 11
+Moving elevator 1 down from 11
+Moving elevator 1 down from 10
+Moving elevator 1 down from 10
+Moving elevator 1 down from 9
+Moving elevator 1 down from 9
+Moving elevator 1 down from 8
+Moving elevator 1 down from 8
+Moving elevator 1 down from 7
+Moving elevator 2 up from 10
+Moving elevator 1 down from 7
+Opening elevator 1 at floor 6
+Moving elevator 2 up from 10
+Moving elevator 2 down from 11
+Moving elevator 2 down from 11
+Moving elevator 2 down from 10
+Opening elevator 3 at floor 19
+Check capacity:  3 -> 0
+Opening elevator 0 at floor 18
+Check capacity:  0 -> 1
+Moving elevator 2 down from 10
+Moving elevator 2 down from 9
+Passenger 3 got on elevator 3 at 19, requested 19
+Passenger 16 got off elevator 0 at 18, requested 18
+Check passenger 3 on floor 19-th : can-on: 0 - can off: 0
+Check passenger 12 on floor 19-th : can-on: 0 - can off: 0
+Check passenger 23 on floor 19-th : can-on: 0 - can off: 0
+Check passenger 30 on floor 19-th : can-on: 0 - can off: 0
+Passenger 16 trip duration 1105 ms, 110 slots
+Check passenger 1 on floor 18-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 19
+Closing elevator 0 at floor 18
+Moving elevator 2 down from 9
+Opening elevator 2 at floor 8
+Opening elevator 1 at floor 6
+Check capacity:  1 -> 0
+Passenger 13 got on elevator 1 at 6, requested 6
+Check passenger 13 on floor 6-th : can-on: 0 - can off: 0
+Check passenger 43 on floor 6-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 6
+Moving elevator 3 up from 19
+Moving elevator 0 up from 18
+Opening elevator 2 at floor 8
+Check capacity:  2 -> 1
+Moving elevator 3 up from 19
+Moving elevator 3 down from 20
+Moving elevator 0 up from 18
+Moving elevator 0 down from 19
+Passenger 6 got off elevator 2 at 8, requested 8
+Passenger 6 trip duration 1227 ms, 122 slots
+Closing elevator 2 at floor 8
+Moving elevator 3 down from 20
+Moving elevator 3 down from 19
+Moving elevator 0 down from 19
+Moving elevator 0 down from 18
+Moving elevator 3 down from 19
+Moving elevator 3 down from 18
+Moving elevator 0 down from 18
+Moving elevator 0 down from 17
+Moving elevator 3 down from 18
+Moving elevator 3 down from 17
+Moving elevator 0 down from 17
+Moving elevator 0 down from 16
+Moving elevator 3 down from 17
+Moving elevator 3 down from 16
+Moving elevator 0 down from 16
+Moving elevator 0 down from 15
+Moving elevator 3 down from 16
+Moving elevator 3 down from 15
+Moving elevator 0 down from 15
+Moving elevator 0 down from 14
+Moving elevator 1 up from 6
+Moving elevator 3 down from 15
+Moving elevator 3 down from 14
+Moving elevator 0 down from 14
+Moving elevator 0 down from 13
+Moving elevator 1 up from 6
+Moving elevator 1 up from 7
+Moving elevator 3 down from 14
+Opening elevator 3 at floor 13
+Moving elevator 0 down from 13
+Moving elevator 0 down from 12
+Moving elevator 1 up from 7
+Opening elevator 1 at floor 8
+Moving elevator 0 down from 12
+Moving elevator 0 down from 11
+Moving elevator 2 up from 8
+Moving elevator 0 down from 11
+Moving elevator 0 down from 10
+Moving elevator 2 up from 8
+Moving elevator 2 down from 9
+Moving elevator 0 down from 10
+Moving elevator 0 down from 9
+Moving elevator 2 down from 9
+Moving elevator 2 up from 8
+Moving elevator 0 down from 9
+Moving elevator 0 down from 8
+Moving elevator 2 up from 8
+Moving elevator 2 up from 9
+Moving elevator 0 down from 8
+Moving elevator 0 down from 7
+Moving elevator 2 up from 9
+Moving elevator 2 up from 10
+Moving elevator 0 down from 7
+Moving elevator 0 down from 6
+Moving elevator 2 up from 10
+Opening elevator 2 at floor 11
+Moving elevator 0 down from 6
+Moving elevator 0 down from 5
+Moving elevator 0 down from 5
+Moving elevator 0 down from 4
+Opening elevator 3 at floor 13
+Check capacity:  3 -> 1
+Opening elevator 1 at floor 8
+Check capacity:  1 -> 1
+Moving elevator 0 down from 4
+Moving elevator 0 down from 3
+Passenger 3 got off elevator 3 at 13, requested 13
+Passenger 3 trip duration 1419 ms, 141 slots
+Closing elevator 3 at floor 13
+Passenger 13 got off elevator 1 at 8, requested 8
+Passenger 13 trip duration 1422 ms, 142 slots
+Closing elevator 1 at floor 8
+Moving elevator 0 down from 3
+Moving elevator 0 down from 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Opening elevator 2 at floor 11
+Check capacity:  2 -> 0
+Passenger 14 got on elevator 2 at 11, requested 11
+Check passenger 14 on floor 11-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 11
+Moving elevator 3 up from 13
+Moving elevator 1 up from 8
+Moving elevator 3 up from 13
+Moving elevator 3 down from 14
+Moving elevator 1 up from 8
+Moving elevator 1 down from 9
+Moving elevator 3 down from 14
+Moving elevator 3 up from 13
+Moving elevator 1 down from 9
+Opening elevator 0 at floor 1
+Check capacity:  0 -> 0
+Moving elevator 1 up from 8
+Moving elevator 3 up from 13
+Moving elevator 3 up from 14
+Passenger 8 got on elevator 0 at 1, requested 1
+Check passenger 4 on floor 1-th : can-on: 0 - can off: 0
+Check passenger 8 on floor 1-th : can-on: 0 - can off: 0
+Check passenger 37 on floor 1-th : can-on: 0 - can off: 0
+Check passenger 41 on floor 1-th : can-on: 0 - can off: 0
+Moving elevator 1 up from 8
+Closing elevator 0 at floor 1
+Moving elevator 1 up from 9
+Moving elevator 3 up from 14
+Moving elevator 3 up from 15
+Moving elevator 1 up from 9
+Moving elevator 1 up from 10
+Moving elevator 3 up from 15
+Opening elevator 3 at floor 16
+Moving elevator 1 up from 10
+Moving elevator 1 up from 11
+Moving elevator 1 up from 11
+Moving elevator 1 up from 12
+Moving elevator 2 up from 11
+Moving elevator 1 up from 12
+Moving elevator 1 up from 13
+Moving elevator 2 up from 11
+Moving elevator 2 down from 12
+Moving elevator 1 up from 13
+Moving elevator 1 up from 14
+Moving elevator 2 down from 12
+Moving elevator 2 down from 11
+Moving elevator 1 up from 14
+Moving elevator 1 up from 15
+Moving elevator 2 down from 11
+Moving elevator 2 down from 10
+Moving elevator 1 up from 15
+Moving elevator 1 up from 16
+Moving elevator 2 down from 10
+Opening elevator 2 at floor 9
+Moving elevator 1 up from 16
+Moving elevator 1 up from 17
+Moving elevator 0 up from 1
+Moving elevator 1 up from 17
+Moving elevator 1 up from 18
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Opening elevator 3 at floor 16
+Check capacity:  3 -> 0
+Moving elevator 1 up from 18
+Moving elevator 0 up from 2
+Moving elevator 1 up from 19
+Moving elevator 0 up from 3
+Passenger 19 got on elevator 3 at 16, requested 16
+Check passenger 7 on floor 16-th : can-on: 0 - can off: 0
+Check passenger 19 on floor 16-th : can-on: 0 - can off: 0
+Check passenger 20 on floor 16-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 16
+Moving elevator 0 up from 3
+Moving elevator 1 up from 19
+Moving elevator 0 up from 4
+Moving elevator 1 up from 20
+Moving elevator 0 up from 4
+Moving elevator 0 up from 5
+Moving elevator 1 up from 20
+Moving elevator 1 up from 21
+Moving elevator 0 up from 5
+Moving elevator 0 up from 6
+Moving elevator 1 up from 21
+Moving elevator 1 up from 22
+Moving elevator 0 up from 6
+Moving elevator 0 up from 7
+Moving elevator 1 up from 22
+Moving elevator 1 up from 23
+Moving elevator 0 up from 7
+Moving elevator 0 up from 8
+Moving elevator 1 up from 23
+Opening elevator 1 at floor 24
+Opening elevator 2 at floor 9
+Check capacity:  2 -> 1
+Moving elevator 0 up from 8
+Opening elevator 0 at floor 9
+Passenger 14 got off elevator 2 at 9, requested 9
+Passenger 14 trip duration 1767 ms, 176 slots
+Check passenger 2 on floor 9-th : can-on: 0 - can off: 0
+Check passenger 24 on floor 9-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 9
+Moving elevator 3 up from 16
+Moving elevator 3 up from 16
+Moving elevator 3 up from 17
+Moving elevator 3 up from 17
+Moving elevator 3 up from 18
+Moving elevator 3 up from 18
+Moving elevator 3 up from 19
+Moving elevator 3 up from 19
+Moving elevator 3 up from 20
+Opening elevator 1 at floor 24
+Check capacity:  1 -> 0
+Moving elevator 3 up from 20
+Moving elevator 3 up from 21
+Passenger 17 got on elevator 1 at 24, requested 24
+Check passenger 17 on floor 24-th : can-on: 0 - can off: 0
+Opening elevator 0 at floor 9
+Check capacity:  0 -> 1
+Closing elevator 1 at floor 24
+Moving elevator 2 up from 9
+Moving elevator 3 up from 21
+Moving elevator 3 up from 22
+Passenger 8 got off elevator 0 at 9, requested 9
+Passenger 8 trip duration 1874 ms, 187 slots
+Check passenger 2 on floor 9-th : can-on: 0 - can off: 0
+Check passenger 24 on floor 9-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 9
+Moving elevator 2 up from 9
+Moving elevator 2 up from 10
+Moving elevator 3 up from 22
+Moving elevator 3 up from 23
+Moving elevator 2 up from 10
+Moving elevator 2 up from 11
+Moving elevator 3 up from 23
+Opening elevator 3 at floor 24
+Moving elevator 2 up from 11
+Moving elevator 2 up from 12
+Moving elevator 2 up from 12
+Moving elevator 2 up from 13
+Moving elevator 2 up from 13
+Moving elevator 2 up from 14
+Moving elevator 2 up from 14
+Moving elevator 2 up from 15
+Moving elevator 2 up from 15
+Moving elevator 2 up from 16
+Moving elevator 2 up from 16
+Moving elevator 2 up from 17
+Moving elevator 1 up from 24
+Moving elevator 0 up from 9
+Moving elevator 2 up from 17
+Moving elevator 1 up from 24
+Moving elevator 2 up from 18
+Moving elevator 1 down from 25
+Moving elevator 0 up from 9
+Moving elevator 0 down from 10
+Moving elevator 2 up from 18
+Moving elevator 2 up from 19
+Moving elevator 1 down from 25
+Moving elevator 1 down from 24
+Opening elevator 3 at floor 24
+Check capacity:  3 -> 1
+Moving elevator 0 down from 10
+Moving elevator 0 down from 9
+Moving elevator 2 up from 19
+Moving elevator 2 up from 20
+Moving elevator 1 down from 24
+Moving elevator 1 down from 23
+Passenger 19 got off elevator 3 at 24, requested 24
+Passenger 19 trip duration 2006 ms, 200 slots
+Check passenger 17 on floor 24-th : can-on: 0 - can off: 0
+Moving elevator 2 up from 20
+Moving elevator 0 down from 9
+Closing elevator 3 at floor 24
+Moving elevator 2 up from 21
+Moving elevator 1 down from 23
+Moving elevator 0 down from 8
+Moving elevator 1 down from 22
+Moving elevator 2 up from 21
+Opening elevator 2 at floor 22
+Moving elevator 0 down from 8
+Moving elevator 1 down from 22
+Moving elevator 0 down from 7
+Moving elevator 1 down from 21
+Moving elevator 0 down from 7
+Moving elevator 0 down from 6
+Moving elevator 1 down from 21
+Moving elevator 1 down from 20
+Moving elevator 0 down from 6
+Moving elevator 1 down from 20
+Moving elevator 0 down from 5
+Moving elevator 1 down from 19
+Moving elevator 0 down from 5
+Moving elevator 0 down from 4
+Moving elevator 1 down from 19
+Opening elevator 1 at floor 18
+Moving elevator 0 down from 4
+Moving elevator 0 down from 3
+Moving elevator 0 down from 3
+Moving elevator 0 down from 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Moving elevator 3 up from 24
+Moving elevator 3 up from 24
+Moving elevator 3 down from 25
+Opening elevator 2 at floor 22
+Check capacity:  2 -> 0
+Moving elevator 3 down from 25
+Moving elevator 3 down from 24
+Passenger 18 got on elevator 2 at 22, requested 22
+Check passenger 18 on floor 22-th : can-on: 0 - can off: 0
+Check passenger 49 on floor 22-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 22
+Moving elevator 3 down from 24
+Moving elevator 3 down from 23
+Moving elevator 3 down from 23
+Moving elevator 3 down from 22
+Opening elevator 1 at floor 18
+Check capacity:  1 -> 1
+Moving elevator 3 down from 22
+Moving elevator 3 down from 21
+Passenger 17 got off elevator 1 at 18, requested 18
+Passenger 17 trip duration 2180 ms, 218 slots
+Check passenger 1 on floor 18-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 18
+Moving elevator 3 down from 21
+Moving elevator 3 down from 20
+Moving elevator 3 down from 20
+Moving elevator 3 down from 19
+Opening elevator 0 at floor 1
+Check capacity:  0 -> 0
+Moving elevator 3 down from 19
+Moving elevator 3 down from 18
+Passenger 4 got on elevator 0 at 1, requested 1
+Check passenger 4 on floor 1-th : can-on: 0 - can off: 0
+Check passenger 37 on floor 1-th : can-on: 0 - can off: 0
+Check passenger 41 on floor 1-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 1
+Moving elevator 3 down from 18
+Moving elevator 3 down from 17
+Moving elevator 3 down from 17
+Moving elevator 3 down from 16
+Moving elevator 2 up from 22
+Moving elevator 3 down from 16
+Moving elevator 3 down from 15
+Moving elevator 2 up from 22
+Moving elevator 2 down from 23
+Moving elevator 3 down from 15
+Moving elevator 3 down from 14
+Moving elevator 2 down from 23
+Moving elevator 2 down from 22
+Moving elevator 3 down from 14
+Moving elevator 3 down from 13
+Moving elevator 2 down from 22
+Moving elevator 2 down from 21
+Moving elevator 1 up from 18
+Moving elevator 3 down from 13
+Moving elevator 3 down from 12
+Moving elevator 2 down from 21
+Moving elevator 1 up from 18
+Moving elevator 2 down from 20
+Moving elevator 1 down from 19
+Moving elevator 3 down from 12
+Moving elevator 3 down from 11
+Moving elevator 2 down from 20
+Moving elevator 1 down from 19
+Moving elevator 2 down from 19
+Moving elevator 1 down from 18
+Moving elevator 3 down from 11
+Moving elevator 3 down from 10
+Moving elevator 2 down from 19
+Moving elevator 2 down from 18
+Moving elevator 1 down from 18
+Moving elevator 1 down from 17
+Moving elevator 0 up from 1
+Moving elevator 3 down from 10
+Moving elevator 3 down from 9
+Moving elevator 2 down from 18
+Moving elevator 2 down from 17
+Moving elevator 1 down from 17
+Moving elevator 1 down from 16
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Moving elevator 3 down from 9
+Moving elevator 3 down from 8
+Moving elevator 2 down from 17
+Moving elevator 2 down from 16
+Moving elevator 1 down from 16
+Moving elevator 1 down from 15
+Moving elevator 0 up from 2
+Moving elevator 0 up from 3
+Moving elevator 3 down from 8
+Moving elevator 3 down from 7
+Moving elevator 2 down from 16
+Moving elevator 1 down from 15
+Moving elevator 2 down from 15
+Moving elevator 1 down from 14
+Moving elevator 0 up from 3
+Moving elevator 0 up from 4
+Moving elevator 3 down from 7
+Moving elevator 3 down from 6
+Moving elevator 2 down from 15
+Moving elevator 1 down from 14
+Moving elevator 2 down from 14
+Moving elevator 1 down from 13
+Moving elevator 0 up from 4
+Moving elevator 0 up from 5
+Moving elevator 3 down from 6
+Moving elevator 3 down from 5
+Moving elevator 2 down from 14
+Moving elevator 2 down from 13
+Moving elevator 1 down from 13
+Moving elevator 1 down from 12
+Moving elevator 0 up from 5
+Moving elevator 0 up from 6
+Moving elevator 3 down from 5
+Moving elevator 3 down from 4
+Moving elevator 2 down from 13
+Moving elevator 1 down from 12
+Moving elevator 2 down from 12
+Moving elevator 1 down from 11
+Moving elevator 0 up from 6
+Moving elevator 0 up from 7
+Moving elevator 3 down from 4
+Moving elevator 3 down from 3
+Moving elevator 2 down from 12
+Moving elevator 1 down from 11
+Moving elevator 2 down from 11
+Moving elevator 1 down from 10
+Moving elevator 0 up from 7
+Moving elevator 0 up from 8
+Moving elevator 3 down from 3
+Opening elevator 3 at floor 2
+Moving elevator 2 down from 11
+Moving elevator 1 down from 10
+Moving elevator 0 up from 8
+Moving elevator 2 down from 10
+Moving elevator 1 down from 9
+Moving elevator 0 up from 9
+Moving elevator 2 down from 10
+Moving elevator 1 down from 9
+Moving elevator 0 up from 9
+Moving elevator 2 down from 9
+Moving elevator 0 up from 10
+Moving elevator 1 down from 8
+Moving elevator 2 down from 9
+Opening elevator 2 at floor 8
+Moving elevator 1 down from 8
+Moving elevator 0 up from 10
+Moving elevator 0 up from 11
+Moving elevator 1 down from 7
+Moving elevator 0 up from 11
+Moving elevator 1 down from 7
+Moving elevator 0 up from 12
+Moving elevator 1 down from 6
+Moving elevator 0 up from 12
+Moving elevator 1 down from 6
+Moving elevator 0 up from 13
+Moving elevator 1 down from 5
+Moving elevator 0 up from 13
+Moving elevator 0 up from 14
+Moving elevator 1 down from 5
+Moving elevator 1 down from 4
+Moving elevator 0 up from 14
+Moving elevator 0 up from 15
+Moving elevator 1 down from 4
+Moving elevator 1 down from 3
+Moving elevator 0 up from 15
+Moving elevator 0 up from 16
+Moving elevator 1 down from 3
+Opening elevator 1 at floor 2
+Opening elevator 3 at floor 2
+Check capacity:  3 -> 0
+Moving elevator 0 up from 16
+Moving elevator 0 up from 17
+Passenger 11 got on elevator 3 at 2, requested 2
+Check passenger 11 on floor 2-th : can-on: 0 - can off: 0
+Check passenger 25 on floor 2-th : can-on: 0 - can off: 0
+Check passenger 40 on floor 2-th : can-on: 0 - can off: 0
+Moving elevator 0 up from 17
+Closing elevator 3 at floor 2
+Moving elevator 0 up from 18
+Moving elevator 0 up from 18
+Moving elevator 0 up from 19
+Opening elevator 2 at floor 8
+Check capacity:  2 -> 1
+Moving elevator 0 up from 19
+Moving elevator 0 up from 20
+Passenger 18 got off elevator 2 at 8, requested 8
+Passenger 18 trip duration 2555 ms, 255 slots
+Closing elevator 2 at floor 8
+Moving elevator 0 up from 20
+Moving elevator 0 up from 21
+Moving elevator 0 up from 21
+Moving elevator 0 up from 22
+Moving elevator 0 up from 22
+Moving elevator 0 up from 23
+Moving elevator 0 up from 23
+Moving elevator 0 up from 24
+Opening elevator 1 at floor 2
+Check capacity:  1 -> 0
+Moving elevator 0 up from 24
+Moving elevator 0 up from 25
+Passenger 25 got on elevator 1 at 2, requested 2
+Check passenger 11 on floor 2-th : can-on: 0 - can off: 0
+Check passenger 25 on floor 2-th : can-on: 0 - can off: 0
+Check passenger 40 on floor 2-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 2
+Moving elevator 0 up from 25
+Opening elevator 0 at floor 26
+Moving elevator 3 up from 2
+Moving elevator 3 up from 2
+Opening elevator 3 at floor 3
+Moving elevator 2 up from 8
+Moving elevator 2 up from 8
+Moving elevator 2 down from 9
+Moving elevator 2 down from 9
+Moving elevator 2 down from 8
+Moving elevator 2 down from 8
+Moving elevator 2 down from 7
+Moving elevator 2 down from 7
+Moving elevator 2 down from 6
+Moving elevator 2 down from 6
+Moving elevator 2 down from 5
+Moving elevator 1 up from 2
+Moving elevator 2 down from 5
+Moving elevator 2 down from 4
+Opening elevator 0 at floor 26
+Check capacity:  0 -> 1
+Moving elevator 1 up from 2
+Moving elevator 1 up from 3
+Moving elevator 2 down from 4
+Moving elevator 2 down from 3
+Passenger 4 got off elevator 0 at 26, requested 26
+Opening elevator 3 at floor 3
+Check capacity:  3 -> 1
+Check passenger 26 on floor 26-th : can-on: 0 - can off: 0
+Passenger 4 trip duration 2741 ms, 274 slots
+Moving elevator 1 up from 3
+Check passenger 27 on floor 26-th : can-on: 0 - can off: 0
+Check passenger 34 on floor 26-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 26
+Moving elevator 1 up from 4
+Moving elevator 2 down from 3
+Moving elevator 2 down from 2
+Passenger 11 got off elevator 3 at 3, requested 3
+Passenger 11 trip duration 2751 ms, 275 slots
+Check passenger 5 on floor 3-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 3
+Moving elevator 1 up from 4
+Moving elevator 1 up from 5
+Moving elevator 2 down from 2
+Moving elevator 2 down from 1
+Moving elevator 1 up from 5
+Moving elevator 1 up from 6
+Moving elevator 2 down from 1
+Opening elevator 2 at floor 0
+Moving elevator 1 up from 6
+Moving elevator 1 up from 7
+Moving elevator 1 up from 7
+Moving elevator 1 up from 8
+Moving elevator 1 up from 8
+Moving elevator 1 up from 9
+Moving elevator 1 up from 9
+Opening elevator 1 at floor 10
+Moving elevator 0 up from 26
+Moving elevator 3 up from 3
+Moving elevator 0 up from 26
+Moving elevator 0 down from 27
+Moving elevator 3 up from 3
+Moving elevator 3 down from 4
+Moving elevator 0 down from 27
+Moving elevator 0 down from 26
+Moving elevator 3 down from 4
+Moving elevator 3 up from 3
+Moving elevator 0 down from 26
+Opening elevator 2 at floor 0
+Moving elevator 0 down from 25
+Check capacity:  2 -> 0
+Moving elevator 3 up from 3
+Moving elevator 3 up from 4
+Moving elevator 0 down from 25
+Passenger 22 got on elevator 2 at 0, requested 0
+Moving elevator 0 down from 24
+Check passenger 22 on floor 0-th : can-on: 0 - can off: 0
+Check passenger 38 on floor 0-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 0
+Moving elevator 3 up from 4
+Opening elevator 3 at floor 5
+Moving elevator 0 down from 24
+Moving elevator 0 down from 23
+Moving elevator 0 down from 23
+Moving elevator 0 down from 22
+Opening elevator 1 at floor 10
+Check capacity:  1 -> 1
+Moving elevator 0 down from 22
+Moving elevator 0 down from 21
+Passenger 25 got off elevator 1 at 10, requested 10
+Passenger 25 trip duration 2926 ms, 292 slots
+Check passenger 33 on floor 10-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 10
+Moving elevator 0 down from 21
+Moving elevator 0 down from 20
+Moving elevator 0 down from 20
+Opening elevator 0 at floor 19
+Moving elevator 2 up from 0
+Moving elevator 2 up from 0
+Moving elevator 2 up from 1
+Opening elevator 3 at floor 5
+Check capacity:  3 -> 0
+Moving elevator 2 up from 1
+Passenger 31 got on elevator 3 at 5, requested 5
+Moving elevator 2 up from 2
+Check passenger 31 on floor 5-th : can-on: 0 - can off: 0
+Check passenger 48 on floor 5-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 5
+Moving elevator 2 up from 2
+Moving elevator 2 up from 3
+Moving elevator 1 up from 10
+Moving elevator 2 up from 3
+Opening elevator 2 at floor 4
+Moving elevator 1 up from 10
+Moving elevator 1 up from 11
+Moving elevator 1 up from 11
+Moving elevator 1 up from 12
+Opening elevator 0 at floor 19
+Check capacity:  0 -> 0
+Moving elevator 1 up from 12
+Moving elevator 1 up from 13
+Passenger 12 got on elevator 0 at 19, requested 19
+Check passenger 12 on floor 19-th : can-on: 0 - can off: 0
+Check passenger 23 on floor 19-th : can-on: 0 - can off: 0
+Check passenger 30 on floor 19-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 19
+Moving elevator 1 up from 13
+Moving elevator 1 up from 14
+Moving elevator 1 up from 14
+Opening elevator 1 at floor 15
+Moving elevator 3 up from 5
+Moving elevator 3 up from 5
+Moving elevator 3 up from 6
+Opening elevator 2 at floor 4
+Check capacity:  2 -> 1
+Moving elevator 3 up from 6
+Moving elevator 3 up from 7
+Passenger 22 got off elevator 2 at 4, requested 4
+Closing elevator 2 at floor 4
+Passenger 22 trip duration 3154 ms, 315 slots
+Moving elevator 3 up from 7
+Moving elevator 3 up from 8
+Moving elevator 3 up from 8
+Moving elevator 3 up from 9
+Moving elevator 0 up from 19
+Moving elevator 3 up from 9
+Moving elevator 3 up from 10
+Moving elevator 0 up from 19
+Moving elevator 0 up from 20
+Moving elevator 3 up from 10
+Moving elevator 3 up from 11
+Moving elevator 0 up from 20
+Opening elevator 0 at floor 21
+Opening elevator 1 at floor 15
+Check capacity:  1 -> 0
+Moving elevator 3 up from 11
+Moving elevator 3 up from 12
+Passenger 29 got on elevator 1 at 15, requested 15
+Check passenger 29 on floor 15-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 15
+Moving elevator 3 up from 12
+Moving elevator 3 up from 13
+Moving elevator 3 up from 13
+Moving elevator 3 up from 14
+Moving elevator 3 up from 14
+Moving elevator 3 up from 15
+Moving elevator 2 up from 4
+Moving elevator 3 up from 15
+Moving elevator 3 up from 16
+Moving elevator 2 up from 4
+Moving elevator 2 down from 5
+Moving elevator 3 up from 16
+Moving elevator 3 up from 17
+Moving elevator 2 down from 5
+Moving elevator 2 up from 4
+Moving elevator 3 up from 17
+Opening elevator 3 at floor 18
+Moving elevator 2 up from 4
+Moving elevator 2 up from 5
+Opening elevator 0 at floor 21
+Check capacity:  0 -> 1
+Moving elevator 2 up from 5
+Moving elevator 2 up from 6
+Passenger 12 got off elevator 0 at 21, requested 21
+Passenger 12 trip duration 3306 ms, 330 slots
+Closing elevator 0 at floor 21
+Moving elevator 1 up from 15
+Moving elevator 2 up from 6
+Moving elevator 2 up from 7
+Moving elevator 1 up from 15
+Moving elevator 1 up from 16
+Moving elevator 2 up from 7
+Moving elevator 2 up from 8
+Moving elevator 1 up from 16
+Moving elevator 1 up from 17
+Moving elevator 2 up from 8
+Opening elevator 2 at floor 9
+Moving elevator 1 up from 17
+Moving elevator 1 up from 18
+Moving elevator 1 up from 18
+Moving elevator 1 up from 19
+Moving elevator 1 up from 19
+Moving elevator 1 up from 20
+Moving elevator 1 up from 20
+Opening elevator 3 at floor 18
+Check capacity:  3 -> 1
+Moving elevator 1 up from 21
+Moving elevator 1 up from 21
+Passenger 31 got off elevator 3 at 18, requested 18
+Passenger 31 trip duration 3391 ms, 339 slots
+Check passenger 1 on floor 18-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 18
+Moving elevator 1 up from 22
+Moving elevator 0 up from 21
+Moving elevator 1 up from 22
+Opening elevator 1 at floor 23
+Moving elevator 0 up from 21
+Moving elevator 0 down from 22
+Moving elevator 0 down from 22
+Moving elevator 0 up from 21
+Opening elevator 2 at floor 9
+Check capacity:  2 -> 0
+Moving elevator 0 up from 21
+Moving elevator 0 up from 22
+Passenger 2 got on elevator 2 at 9, requested 9
+Check passenger 2 on floor 9-th : can-on: 0 - can off: 0
+Check passenger 24 on floor 9-th : can-on: 0 - can off: 0
+Moving elevator 0 up from 22
+Closing elevator 2 at floor 9
+Opening elevator 0 at floor 23
+Moving elevator 3 up from 18
+Moving elevator 3 up from 18
+Moving elevator 3 down from 19
+Opening elevator 1 at floor 23
+Check capacity:  1 -> 1
+Moving elevator 3 down from 19
+Moving elevator 3 down from 18
+Passenger 29 got off elevator 1 at 23, requested 23
+Passenger 29 trip duration 3520 ms, 352 slots
+Check passenger 9 on floor 23-th : can-on: 0 - can off: 0
+Check passenger 36 on floor 23-th : can-on: 0 - can off: 0
+Check passenger 39 on floor 23-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 23
+Moving elevator 3 down from 18
+Opening elevator 3 at floor 17
+Moving elevator 2 up from 9
+Opening elevator 0 at floor 23
+Check capacity:  0 -> 0
+Moving elevator 2 up from 9
+Moving elevator 2 up from 10
+Passenger 36 got on elevator 0 at 23, requested 23
+Check passenger 9 on floor 23-th : can-on: 0 - can off: 0
+Check passenger 36 on floor 23-th : can-on: 0 - can off: 0
+Check passenger 39 on floor 23-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 23
+Moving elevator 2 up from 10
+Moving elevator 2 up from 11
+Moving elevator 2 up from 11
+Moving elevator 2 up from 12
+Moving elevator 2 up from 12
+Moving elevator 2 up from 13
+Moving elevator 2 up from 13
+Moving elevator 2 up from 14
+Moving elevator 1 up from 23
+Moving elevator 2 up from 14
+Moving elevator 2 up from 15
+Opening elevator 3 at floor 17
+Check capacity:  3 -> 0
+Moving elevator 1 up from 23
+Moving elevator 1 down from 24
+Moving elevator 2 up from 15
+Moving elevator 2 up from 16
+Passenger 35 got on elevator 3 at 17, requested 17
+Check passenger 10 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 35 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 44 on floor 17-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 17
+Moving elevator 1 down from 24
+Moving elevator 1 down from 23
+Moving elevator 2 up from 16
+Moving elevator 2 up from 17
+Moving elevator 1 down from 23
+Moving elevator 1 down from 22
+Moving elevator 2 up from 17
+Moving elevator 2 up from 18
+Moving elevator 0 up from 23
+Moving elevator 1 down from 22
+Moving elevator 1 down from 21
+Moving elevator 2 up from 18
+Opening elevator 2 at floor 19
+Moving elevator 0 up from 23
+Moving elevator 1 down from 21
+Moving elevator 0 down from 24
+Moving elevator 1 down from 20
+Moving elevator 0 down from 24
+Moving elevator 0 down from 23
+Moving elevator 1 down from 20
+Moving elevator 1 down from 19
+Moving elevator 0 down from 23
+Moving elevator 0 down from 22
+Moving elevator 1 down from 19
+Moving elevator 1 down from 18
+Moving elevator 0 down from 22
+Moving elevator 1 down from 18
+Moving elevator 0 down from 21
+Moving elevator 1 down from 17
+Moving elevator 0 down from 21
+Moving elevator 1 down from 17
+Moving elevator 0 down from 20
+Moving elevator 1 down from 16
+Moving elevator 0 down from 20
+Moving elevator 0 down from 19
+Moving elevator 1 down from 16
+Moving elevator 1 down from 15
+Moving elevator 3 up from 17
+Moving elevator 0 down from 19
+Moving elevator 0 down from 18
+Moving elevator 1 down from 15
+Moving elevator 3 up from 17
+Moving elevator 1 down from 14
+Moving elevator 3 down from 18
+Moving elevator 0 down from 18
+Moving elevator 0 down from 17
+Moving elevator 1 down from 14
+Moving elevator 3 down from 18
+Moving elevator 1 down from 13
+Moving elevator 3 down from 17
+Opening elevator 2 at floor 19
+Check capacity:  2 -> 1
+Moving elevator 0 down from 17
+Moving elevator 1 down from 13
+Moving elevator 3 down from 17
+Moving elevator 0 down from 16
+Moving elevator 3 down from 16
+Moving elevator 1 down from 12
+Passenger 2 got off elevator 2 at 19, requested 19
+Check passenger 23 on floor 19-th : can-on: 0 - can off: 0
+Check passenger 30 on floor 19-th : can-on: 0 - can off: 0
+Passenger 2 trip duration 3795 ms, 379 slots
+Moving elevator 0 down from 16
+Closing elevator 2 at floor 19
+Moving elevator 0 down from 15
+Moving elevator 3 down from 16
+Moving elevator 1 down from 12
+Moving elevator 3 down from 15
+Moving elevator 1 down from 11
+Moving elevator 0 down from 15
+Moving elevator 0 down from 14
+Moving elevator 3 down from 15
+Moving elevator 3 down from 14
+Moving elevator 1 down from 11
+Moving elevator 1 down from 10
+Moving elevator 0 down from 14
+Moving elevator 0 down from 13
+Moving elevator 3 down from 14
+Moving elevator 3 down from 13
+Moving elevator 1 down from 10
+Moving elevator 1 down from 9
+Moving elevator 0 down from 13
+Opening elevator 0 at floor 12
+Moving elevator 3 down from 13
+Moving elevator 3 down from 12
+Moving elevator 1 down from 9
+Moving elevator 1 down from 8
+Moving elevator 3 down from 12
+Moving elevator 3 down from 11
+Moving elevator 1 down from 8
+Moving elevator 1 down from 7
+Moving elevator 3 down from 11
+Moving elevator 3 down from 10
+Moving elevator 1 down from 7
+Moving elevator 1 down from 6
+Moving elevator 3 down from 10
+Moving elevator 1 down from 6
+Moving elevator 3 down from 9
+Moving elevator 1 down from 5
+Moving elevator 3 down from 9
+Moving elevator 1 down from 5
+Moving elevator 3 down from 8
+Moving elevator 1 down from 4
+Moving elevator 3 down from 8
+Moving elevator 3 down from 7
+Moving elevator 1 down from 4
+Moving elevator 2 up from 19
+Moving elevator 1 down from 3
+Moving elevator 3 down from 7
+Moving elevator 3 down from 6
+Moving elevator 2 up from 19
+Moving elevator 1 down from 3
+Moving elevator 2 down from 20
+Moving elevator 1 down from 2
+Moving elevator 3 down from 6
+Moving elevator 3 down from 5
+Moving elevator 2 down from 20
+Moving elevator 1 down from 2
+Moving elevator 2 up from 19
+Opening elevator 1 at floor 1
+Opening elevator 0 at floor 12
+Check capacity:  0 -> 1
+Moving elevator 3 down from 5
+Moving elevator 3 down from 4
+Moving elevator 2 up from 19
+Moving elevator 2 up from 20
+Passenger 36 got off elevator 0 at 12, requested 12
+Passenger 36 trip duration 3942 ms, 394 slots
+Closing elevator 0 at floor 12
+Moving elevator 2 up from 20
+Moving elevator 3 down from 4
+Moving elevator 2 up from 21
+Moving elevator 3 down from 3
+Moving elevator 2 up from 21
+Moving elevator 2 up from 22
+Moving elevator 3 down from 3
+Moving elevator 3 down from 2
+Moving elevator 2 up from 22
+Moving elevator 2 up from 23
+Moving elevator 3 down from 2
+Moving elevator 3 down from 1
+Moving elevator 2 up from 23
+Moving elevator 2 up from 24
+Moving elevator 3 down from 1
+Opening elevator 3 at floor 0
+Moving elevator 2 up from 24
+Moving elevator 2 up from 25
+Moving elevator 2 up from 25
+Opening elevator 2 at floor 26
+Opening elevator 1 at floor 1
+Check capacity:  1 -> 0
+Passenger 41 got on elevator 1 at 1, requested 1
+Check passenger 37 on floor 1-th : can-on: 0 - can off: 0
+Check passenger 41 on floor 1-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 1
+Moving elevator 0 up from 12
+Moving elevator 0 up from 12
+Moving elevator 0 down from 13
+Moving elevator 0 down from 13
+Moving elevator 0 down from 12
+Moving elevator 0 down from 12
+Moving elevator 0 down from 11
+Opening elevator 3 at floor 0
+Check capacity:  3 -> 1
+Moving elevator 0 down from 11
+Moving elevator 0 down from 10
+Passenger 35 got off elevator 3 at 0, requested 0
+Passenger 35 trip duration 4090 ms, 409 slots
+Check passenger 38 on floor 0-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 0
+Moving elevator 0 down from 10
+Opening elevator 0 at floor 9
+Opening elevator 2 at floor 26
+Check capacity:  2 -> 0
+Passenger 26 got on elevator 2 at 26, requested 26
+Check passenger 26 on floor 26-th : can-on: 0 - can off: 0
+Check passenger 27 on floor 26-th : can-on: 0 - can off: 0
+Check passenger 34 on floor 26-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 26
+Moving elevator 1 up from 1
+Moving elevator 1 up from 1
+Moving elevator 1 up from 2
+Moving elevator 1 up from 2
+Moving elevator 1 up from 3
+Moving elevator 1 up from 3
+Moving elevator 1 up from 4
+Moving elevator 1 up from 4
+Moving elevator 1 up from 5
+Moving elevator 3 up from 0
+Moving elevator 1 up from 5
+Moving elevator 1 up from 6
+Opening elevator 0 at floor 9
+Check capacity:  0 -> 0
+Moving elevator 3 up from 0
+Moving elevator 3 up from 1
+Moving elevator 1 up from 6
+Moving elevator 1 up from 7
+Passenger 24 got on elevator 0 at 9, requested 9
+Check passenger 24 on floor 9-th : can-on: 0 - can off: 0
+Moving elevator 3 up from 1
+Moving elevator 2 up from 26
+Closing elevator 0 at floor 9
+Moving elevator 3 up from 2
+Moving elevator 1 up from 7
+Moving elevator 1 up from 8
+Moving elevator 2 up from 26
+Moving elevator 3 up from 2
+Moving elevator 2 down from 27
+Moving elevator 3 up from 3
+Moving elevator 1 up from 8
+Moving elevator 1 up from 9
+Moving elevator 2 down from 27
+Moving elevator 2 down from 26
+Moving elevator 3 up from 3
+Moving elevator 1 up from 9
+Moving elevator 3 up from 4
+Moving elevator 1 up from 10
+Moving elevator 2 down from 26
+Moving elevator 2 down from 25
+Moving elevator 3 up from 4
+Moving elevator 1 up from 10
+Moving elevator 3 up from 5
+Moving elevator 1 up from 11
+Moving elevator 2 down from 25
+Moving elevator 2 down from 24
+Moving elevator 3 up from 5
+Moving elevator 3 up from 6
+Moving elevator 1 up from 11
+Moving elevator 1 up from 12
+Moving elevator 2 down from 24
+Moving elevator 2 down from 23
+Moving elevator 3 up from 6
+Moving elevator 1 up from 12
+Moving elevator 3 up from 7
+Moving elevator 1 up from 13
+Moving elevator 2 down from 23
+Moving elevator 2 down from 22
+Moving elevator 3 up from 7
+Moving elevator 1 up from 13
+Moving elevator 3 up from 8
+Opening elevator 1 at floor 14
+Moving elevator 2 down from 22
+Moving elevator 2 down from 21
+Moving elevator 3 up from 8
+Moving elevator 3 up from 9
+Moving elevator 2 down from 21
+Moving elevator 2 down from 20
+Moving elevator 0 up from 9
+Moving elevator 3 up from 9
+Moving elevator 3 up from 10
+Moving elevator 2 down from 20
+Moving elevator 2 down from 19
+Moving elevator 0 up from 9
+Moving elevator 0 down from 10
+Moving elevator 3 up from 10
+Moving elevator 3 up from 11
+Moving elevator 2 down from 19
+Moving elevator 2 down from 18
+Moving elevator 0 down from 10
+Moving elevator 0 down from 9
+Moving elevator 3 up from 11
+Moving elevator 3 up from 12
+Moving elevator 2 down from 18
+Moving elevator 2 down from 17
+Moving elevator 0 down from 9
+Moving elevator 0 down from 8
+Moving elevator 3 up from 12
+Moving elevator 3 up from 13
+Moving elevator 2 down from 17
+Moving elevator 2 down from 16
+Moving elevator 0 down from 8
+Moving elevator 0 down from 7
+Moving elevator 3 up from 13
+Moving elevator 3 up from 14
+Moving elevator 2 down from 16
+Moving elevator 2 down from 15
+Moving elevator 0 down from 7
+Moving elevator 3 up from 14
+Moving elevator 0 down from 6
+Moving elevator 3 up from 15
+Moving elevator 2 down from 15
+Moving elevator 2 down from 14
+Moving elevator 0 down from 6
+Moving elevator 3 up from 15
+Moving elevator 0 down from 5
+Moving elevator 3 up from 16
+Opening elevator 1 at floor 14
+Check capacity:  1 -> 1
+Moving elevator 2 down from 14
+Moving elevator 2 down from 13
+Moving elevator 0 down from 5
+Moving elevator 3 up from 16
+Moving elevator 0 down from 4
+Moving elevator 3 up from 17
+Passenger 41 got off elevator 1 at 14, requested 14
+Passenger 41 trip duration 4407 ms, 440 slots
+Check passenger 32 on floor 14-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 14
+Moving elevator 2 down from 13
+Moving elevator 2 down from 12
+Moving elevator 0 down from 4
+Moving elevator 3 up from 17
+Moving elevator 0 down from 3
+Moving elevator 3 up from 18
+Moving elevator 2 down from 12
+Moving elevator 2 down from 11
+Moving elevator 0 down from 3
+Moving elevator 3 up from 18
+Opening elevator 0 at floor 2
+Moving elevator 3 up from 19
+Moving elevator 2 down from 11
+Moving elevator 2 down from 10
+Moving elevator 3 up from 19
+Moving elevator 3 up from 20
+Moving elevator 2 down from 10
+Moving elevator 2 down from 9
+Moving elevator 3 up from 20
+Moving elevator 3 up from 21
+Moving elevator 2 down from 9
+Moving elevator 2 down from 8
+Moving elevator 3 up from 21
+Moving elevator 3 up from 22
+Moving elevator 2 down from 8
+Moving elevator 2 down from 7
+Moving elevator 3 up from 22
+Moving elevator 3 up from 23
+Moving elevator 2 down from 7
+Moving elevator 2 down from 6
+Moving elevator 3 up from 23
+Moving elevator 3 up from 24
+Moving elevator 2 down from 6
+Opening elevator 2 at floor 5
+Moving elevator 3 up from 24
+Moving elevator 3 up from 25
+Moving elevator 1 up from 14
+Moving elevator 1 up from 14
+Moving elevator 3 up from 25
+Opening elevator 3 at floor 26
+Moving elevator 1 down from 15
+Opening elevator 0 at floor 2
+Check capacity:  0 -> 1
+Moving elevator 1 down from 15
+Moving elevator 1 down from 14
+Passenger 24 got off elevator 0 at 2, requested 2
+Passenger 24 trip duration 4545 ms, 454 slots
+Check passenger 40 on floor 2-th : can-on: 0 - can off: 0
+Moving elevator 1 down from 14
+Closing elevator 0 at floor 2
+Moving elevator 1 down from 13
+Moving elevator 1 down from 13
+Moving elevator 1 down from 12
+Moving elevator 1 down from 12
+Moving elevator 1 down from 11
+Moving elevator 1 down from 11
+Moving elevator 1 down from 10
+Moving elevator 1 down from 10
+Moving elevator 1 down from 9
+Opening elevator 2 at floor 5
+Check capacity:  2 -> 1
+Moving elevator 1 down from 9
+Moving elevator 1 down from 8
+Passenger 26 got off elevator 2 at 5, requested 5
+Passenger 26 trip duration 4624 ms, 462 slots
+Moving elevator 1 down from 8
+Check passenger 48 on floor 5-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 5
+Moving elevator 1 down from 7
+Opening elevator 3 at floor 26
+Check capacity:  3 -> 0
+Moving elevator 1 down from 7
+Moving elevator 1 down from 6
+Passenger 27 got on elevator 3 at 26, requested 26
+Check passenger 27 on floor 26-th : can-on: 0 - can off: 0
+Check passenger 34 on floor 26-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 26
+Moving elevator 1 down from 6
+Moving elevator 1 down from 5
+Moving elevator 0 up from 2
+Moving elevator 1 down from 5
+Moving elevator 0 up from 2
+Moving elevator 1 down from 4
+Moving elevator 0 up from 3
+Moving elevator 1 down from 4
+Moving elevator 0 up from 3
+Moving elevator 1 down from 3
+Moving elevator 0 up from 4
+Moving elevator 1 down from 3
+Moving elevator 1 down from 2
+Moving elevator 0 up from 4
+Moving elevator 0 up from 5
+Moving elevator 1 down from 2
+Opening elevator 1 at floor 1
+Moving elevator 0 up from 5
+Moving elevator 0 up from 6
+Moving elevator 0 up from 6
+Moving elevator 0 up from 7
+Moving elevator 2 up from 5
+Moving elevator 0 up from 7
+Moving elevator 0 up from 8
+Moving elevator 2 up from 5
+Moving elevator 2 down from 6
+Moving elevator 0 up from 8
+Moving elevator 0 up from 9
+Moving elevator 3 up from 26
+Moving elevator 2 down from 6
+Moving elevator 2 up from 5
+Moving elevator 0 up from 9
+Moving elevator 0 up from 10
+Moving elevator 3 up from 26
+Moving elevator 3 down from 27
+Moving elevator 2 up from 5
+Moving elevator 2 up from 6
+Moving elevator 0 up from 10
+Moving elevator 0 up from 11
+Moving elevator 3 down from 27
+Moving elevator 3 down from 26
+Moving elevator 2 up from 6
+Moving elevator 0 up from 11
+Moving elevator 2 up from 7
+Moving elevator 0 up from 12
+Moving elevator 3 down from 26
+Moving elevator 3 down from 25
+Moving elevator 2 up from 7
+Moving elevator 0 up from 12
+Moving elevator 2 up from 8
+Moving elevator 0 up from 13
+Moving elevator 3 down from 25
+Moving elevator 3 down from 24
+Moving elevator 2 up from 8
+Moving elevator 0 up from 13
+Moving elevator 2 up from 9
+Moving elevator 3 down from 24
+Moving elevator 0 up from 14
+Moving elevator 3 down from 23
+Opening elevator 1 at floor 1
+Check capacity:  1 -> 0
+Moving elevator 2 up from 9
+Moving elevator 0 up from 14
+Moving elevator 2 up from 10
+Moving elevator 0 up from 15
+Moving elevator 3 down from 23
+Passenger 37 got on elevator 1 at 1, requested 1
+Moving elevator 3 down from 22
+Check passenger 37 on floor 1-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 1
+Moving elevator 2 up from 10
+Moving elevator 2 up from 11
+Moving elevator 0 up from 15
+Opening elevator 0 at floor 16
+Moving elevator 3 down from 22
+Moving elevator 3 down from 21
+Moving elevator 2 up from 11
+Moving elevator 2 up from 12
+Moving elevator 3 down from 21
+Moving elevator 3 down from 20
+Moving elevator 2 up from 12
+Moving elevator 2 up from 13
+Moving elevator 3 down from 20
+Moving elevator 3 down from 19
+Moving elevator 2 up from 13
+Moving elevator 2 up from 14
+Moving elevator 3 down from 19
+Moving elevator 3 down from 18
+Moving elevator 2 up from 14
+Moving elevator 2 up from 15
+Moving elevator 3 down from 18
+Moving elevator 3 down from 17
+Moving elevator 2 up from 15
+Moving elevator 2 up from 16
+Moving elevator 3 down from 17
+Moving elevator 3 down from 16
+Moving elevator 2 up from 16
+Opening elevator 2 at floor 17
+Moving elevator 3 down from 16
+Moving elevator 3 down from 15
+Moving elevator 3 down from 15
+Moving elevator 3 down from 14
+Moving elevator 1 up from 1
+Moving elevator 3 down from 14
+Moving elevator 3 down from 13
+Moving elevator 1 up from 1
+Moving elevator 1 up from 2
+Opening elevator 0 at floor 16
+Check capacity:  0 -> 0
+Moving elevator 3 down from 13
+Moving elevator 3 down from 12
+Moving elevator 1 up from 2
+Moving elevator 1 up from 3
+Passenger 20 got on elevator 0 at 16, requested 16
+Check passenger 7 on floor 16-th : can-on: 0 - can off: 0
+Check passenger 20 on floor 16-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 16
+Moving elevator 3 down from 12
+Moving elevator 3 down from 11
+Moving elevator 1 up from 3
+Moving elevator 1 up from 4
+Moving elevator 3 down from 11
+Moving elevator 3 down from 10
+Moving elevator 1 up from 4
+Moving elevator 1 up from 5
+Moving elevator 3 down from 10
+Moving elevator 3 down from 9
+Moving elevator 1 up from 5
+Moving elevator 1 up from 6
+Moving elevator 3 down from 9
+Moving elevator 3 down from 8
+Moving elevator 1 up from 6
+Opening elevator 1 at floor 7
+Moving elevator 3 down from 8
+Moving elevator 3 down from 7
+Opening elevator 2 at floor 17
+Check capacity:  2 -> 0
+Moving elevator 3 down from 7
+Moving elevator 3 down from 6
+Passenger 10 got on elevator 2 at 17, requested 17
+Check passenger 10 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 44 on floor 17-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 17
+Moving elevator 3 down from 6
+Moving elevator 3 down from 5
+Moving elevator 3 down from 5
+Opening elevator 3 at floor 4
+Moving elevator 0 up from 16
+Moving elevator 0 up from 16
+Opening elevator 0 at floor 17
+Opening elevator 1 at floor 7
+Check capacity:  1 -> 1
+Passenger 37 got off elevator 1 at 7, requested 7
+Passenger 37 trip duration 5094 ms, 509 slots
+Check passenger 46 on floor 7-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 7
+Moving elevator 2 up from 17
+Moving elevator 2 up from 17
+Moving elevator 2 up from 18
+Opening elevator 3 at floor 4
+Check capacity:  3 -> 1
+Moving elevator 2 up from 18
+Moving elevator 2 up from 19
+Passenger 27 got off elevator 3 at 4, requested 4
+Passenger 27 trip duration 5139 ms, 513 slots
+Closing elevator 3 at floor 4
+Moving elevator 2 up from 19
+Moving elevator 2 up from 20
+Opening elevator 0 at floor 17
+Check capacity:  0 -> 1
+Moving elevator 2 up from 20
+Moving elevator 2 up from 21
+Passenger 20 got off elevator 0 at 17, requested 17
+Passenger 20 trip duration 5165 ms, 516 slots
+Check passenger 10 on floor 17-th : can-on: 0 - can off: 0
+Check passenger 44 on floor 17-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 17
+Moving elevator 2 up from 21
+Moving elevator 2 up from 22
+Moving elevator 2 up from 22
+Moving elevator 2 up from 23
+Moving elevator 2 up from 23
+Moving elevator 2 up from 24
+Moving elevator 1 up from 7
+Moving elevator 2 up from 24
+Opening elevator 2 at floor 25
+Moving elevator 1 up from 7
+Moving elevator 1 up from 8
+Moving elevator 1 up from 8
+Moving elevator 1 up from 9
+Moving elevator 1 up from 9
+Opening elevator 1 at floor 10
+Moving elevator 3 up from 4
+Moving elevator 3 up from 4
+Moving elevator 3 down from 5
+Moving elevator 0 up from 17
+Moving elevator 3 down from 5
+Moving elevator 3 up from 4
+Moving elevator 0 up from 17
+Moving elevator 0 down from 18
+Moving elevator 3 up from 4
+Moving elevator 3 up from 5
+Moving elevator 0 down from 18
+Moving elevator 0 up from 17
+Moving elevator 3 up from 5
+Moving elevator 3 up from 6
+Moving elevator 0 up from 17
+Moving elevator 0 up from 18
+Opening elevator 2 at floor 25
+Check capacity:  2 -> 1
+Moving elevator 3 up from 6
+Moving elevator 3 up from 7
+Moving elevator 0 up from 18
+Moving elevator 0 up from 19
+Passenger 10 got off elevator 2 at 25, requested 25
+Passenger 10 trip duration 5325 ms, 532 slots
+Moving elevator 3 up from 7
+Check passenger 47 on floor 25-th : can-on: 0 - can off: 0
+Moving elevator 3 up from 8
+Closing elevator 2 at floor 25
+Moving elevator 0 up from 19
+Moving elevator 0 up from 20
+Moving elevator 3 up from 8
+Moving elevator 3 up from 9
+Opening elevator 1 at floor 10
+Check capacity:  1 -> 0
+Moving elevator 0 up from 20
+Moving elevator 0 up from 21
+Moving elevator 3 up from 9
+Moving elevator 3 up from 10
+Passenger 33 got on elevator 1 at 10, requested 10
+Check passenger 33 on floor 10-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 10
+Moving elevator 0 up from 21
+Moving elevator 0 up from 22
+Moving elevator 3 up from 10
+Moving elevator 3 up from 11
+Moving elevator 0 up from 22
+Moving elevator 0 up from 23
+Moving elevator 3 up from 11
+Moving elevator 3 up from 12
+Moving elevator 0 up from 23
+Moving elevator 0 up from 24
+Moving elevator 3 up from 12
+Moving elevator 3 up from 13
+Moving elevator 0 up from 24
+Moving elevator 0 up from 25
+Moving elevator 3 up from 13
+Moving elevator 3 up from 14
+Moving elevator 0 up from 25
+Moving elevator 0 up from 26
+Moving elevator 3 up from 14
+Moving elevator 3 up from 15
+Moving elevator 0 up from 26
+Opening elevator 0 at floor 27
+Moving elevator 3 up from 15
+Moving elevator 3 up from 16
+Moving elevator 2 up from 25
+Moving elevator 3 up from 16
+Moving elevator 3 up from 17
+Moving elevator 2 up from 25
+Moving elevator 2 down from 26
+Moving elevator 3 up from 17
+Moving elevator 3 up from 18
+Moving elevator 2 down from 26
+Moving elevator 2 down from 25
+Moving elevator 3 up from 18
+Moving elevator 3 up from 19
+Moving elevator 1 up from 10
+Moving elevator 2 down from 25
+Moving elevator 2 down from 24
+Moving elevator 1 up from 10
+Moving elevator 3 up from 19
+Moving elevator 1 up from 11
+Moving elevator 3 up from 20
+Moving elevator 2 down from 24
+Moving elevator 2 down from 23
+Moving elevator 1 up from 11
+Moving elevator 1 up from 12
+Moving elevator 3 up from 20
+Moving elevator 3 up from 21
+Moving elevator 2 down from 23
+Moving elevator 2 down from 22
+Moving elevator 1 up from 12
+Moving elevator 1 up from 13
+Moving elevator 3 up from 21
+Moving elevator 3 up from 22
+Moving elevator 2 down from 22
+Moving elevator 2 down from 21
+Moving elevator 1 up from 13
+Moving elevator 1 up from 14
+Moving elevator 3 up from 22
+Opening elevator 3 at floor 23
+Moving elevator 2 down from 21
+Moving elevator 2 down from 20
+Moving elevator 1 up from 14
+Moving elevator 1 up from 15
+Moving elevator 2 down from 20
+Opening elevator 2 at floor 19
+Opening elevator 0 at floor 27
+Check capacity:  0 -> 0
+Moving elevator 1 up from 15
+Moving elevator 1 up from 16
+Passenger 28 got on elevator 0 at 27, requested 27
+Check passenger 28 on floor 27-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 27
+Moving elevator 1 up from 16
+Moving elevator 1 up from 17
+Moving elevator 1 up from 17
+Moving elevator 1 up from 18
+Moving elevator 1 up from 18
+Moving elevator 1 up from 19
+Moving elevator 1 up from 19
+Moving elevator 1 up from 20
+Moving elevator 1 up from 20
+Moving elevator 1 up from 21
+Moving elevator 1 up from 21
+Moving elevator 1 up from 22
+Opening elevator 3 at floor 23
+Check capacity:  3 -> 0
+Moving elevator 1 up from 22
+Moving elevator 1 up from 23
+Passenger 39 got on elevator 3 at 23, requested 23
+Opening elevator 2 at floor 19
+Check capacity:  2 -> 0
+Check passenger 9 on floor 23-th : can-on: 0 - can off: 0
+Check passenger 39 on floor 23-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 23
+Moving elevator 1 up from 23
+Opening elevator 1 at floor 24
+Passenger 30 got on elevator 2 at 19, requested 19
+Check passenger 23 on floor 19-th : can-on: 0 - can off: 0
+Check passenger 30 on floor 19-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 19
+Moving elevator 0 down from 27
+Moving elevator 0 down from 27
+Moving elevator 0 down from 26
+Moving elevator 0 down from 26
+Moving elevator 0 down from 25
+Moving elevator 0 down from 25
+Moving elevator 0 down from 24
+Moving elevator 0 down from 24
+Moving elevator 0 down from 23
+Moving elevator 0 down from 23
+Moving elevator 0 down from 22
+Moving elevator 0 down from 22
+Moving elevator 0 down from 21
+Moving elevator 0 down from 21
+Moving elevator 0 down from 20
+Moving elevator 3 up from 23
+Opening elevator 1 at floor 24
+Check capacity:  1 -> 1
+Moving elevator 2 up from 19
+Moving elevator 0 down from 20
+Moving elevator 3 up from 23
+Moving elevator 0 down from 19
+Moving elevator 3 down from 24
+Passenger 33 got off elevator 1 at 24, requested 24
+Passenger 33 trip duration 5735 ms, 573 slots
+Closing elevator 1 at floor 24
+Moving elevator 2 up from 19
+Moving elevator 2 down from 20
+Moving elevator 0 down from 19
+Moving elevator 3 down from 24
+Moving elevator 0 down from 18
+Moving elevator 3 down from 23
+Moving elevator 2 down from 20
+Moving elevator 2 down from 19
+Moving elevator 0 down from 18
+Moving elevator 0 down from 17
+Moving elevator 3 down from 23
+Opening elevator 3 at floor 22
+Moving elevator 2 down from 19
+Moving elevator 2 down from 18
+Moving elevator 0 down from 17
+Moving elevator 0 down from 16
+Moving elevator 2 down from 18
+Opening elevator 2 at floor 17
+Moving elevator 0 down from 16
+Moving elevator 0 down from 15
+Moving elevator 0 down from 15
+Moving elevator 0 down from 14
+Moving elevator 0 down from 14
+Moving elevator 0 down from 13
+Moving elevator 0 down from 13
+Opening elevator 0 at floor 12
+Moving elevator 1 up from 24
+Moving elevator 1 up from 24
+Moving elevator 1 down from 25
+Opening elevator 3 at floor 22
+Check capacity:  3 -> 1
+Moving elevator 1 down from 25
+Moving elevator 1 down from 24
+Passenger 39 got off elevator 3 at 22, requested 22
+Passenger 39 trip duration 5862 ms, 586 slots
+Check passenger 49 on floor 22-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 22
+Moving elevator 1 down from 24
+Moving elevator 1 down from 23
+Opening elevator 2 at floor 17
+Check capacity:  2 -> 1
+Moving elevator 1 down from 23
+Opening elevator 1 at floor 22
+Passenger 30 got off elevator 2 at 17, requested 17
+Passenger 30 trip duration 5890 ms, 589 slots
+Check passenger 44 on floor 17-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 17
+Opening elevator 0 at floor 12
+Check capacity:  0 -> 1
+Passenger 28 got off elevator 0 at 12, requested 12
+Passenger 28 trip duration 5926 ms, 592 slots
+Closing elevator 0 at floor 12
+Moving elevator 3 up from 22
+Moving elevator 3 up from 22
+Moving elevator 3 down from 23
+Opening elevator 1 at floor 22
+Check capacity:  1 -> 0
+Moving elevator 2 up from 17
+Moving elevator 3 down from 23
+Moving elevator 3 down from 22
+Passenger 49 got on elevator 1 at 22, requested 22
+Check passenger 49 on floor 22-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 22
+Moving elevator 2 up from 17
+Moving elevator 2 up from 18
+Moving elevator 3 down from 22
+Moving elevator 3 down from 21
+Moving elevator 2 up from 18
+Moving elevator 2 up from 19
+Moving elevator 3 down from 21
+Moving elevator 3 down from 20
+Moving elevator 2 up from 19
+Moving elevator 2 up from 20
+Moving elevator 3 down from 20
+Opening elevator 3 at floor 19
+Moving elevator 0 up from 12
+Moving elevator 2 up from 20
+Moving elevator 2 up from 21
+Moving elevator 0 up from 12
+Moving elevator 0 up from 13
+Moving elevator 2 up from 21
+Moving elevator 2 up from 22
+Moving elevator 0 up from 13
+Opening elevator 0 at floor 14
+Moving elevator 2 up from 22
+Moving elevator 2 up from 23
+Moving elevator 2 up from 23
+Moving elevator 2 up from 24
+Moving elevator 2 up from 24
+Moving elevator 2 up from 25
+Moving elevator 2 up from 25
+Opening elevator 2 at floor 26
+Moving elevator 1 up from 22
+Moving elevator 1 up from 22
+Moving elevator 1 down from 23
+Moving elevator 1 down from 23
+Moving elevator 1 down from 22
+Moving elevator 1 down from 22
+Moving elevator 1 down from 21
+Opening elevator 3 at floor 19
+Check capacity:  3 -> 0
+Moving elevator 1 down from 21
+Moving elevator 1 down from 20
+Passenger 23 got on elevator 3 at 19, requested 19
+Check passenger 23 on floor 19-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 19
+Opening elevator 0 at floor 14
+Check capacity:  0 -> 0
+Moving elevator 1 down from 20
+Moving elevator 1 down from 19
+Passenger 32 got on elevator 0 at 14, requested 14
+Moving elevator 1 down from 19
+Check passenger 32 on floor 14-th : can-on: 0 - can off: 0
+Moving elevator 1 down from 18
+Closing elevator 0 at floor 14
+Moving elevator 1 down from 18
+Moving elevator 1 down from 17
+Moving elevator 1 down from 17
+Moving elevator 1 down from 16
+Opening elevator 2 at floor 26
+Check capacity:  2 -> 0
+Moving elevator 1 down from 16
+Moving elevator 1 down from 15
+Passenger 34 got on elevator 2 at 26, requested 26
+Check passenger 34 on floor 26-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 26
+Moving elevator 1 down from 15
+Opening elevator 1 at floor 14
+Moving elevator 3 up from 19
+Moving elevator 3 up from 19
+Moving elevator 3 down from 20
+Moving elevator 3 down from 20
+Moving elevator 3 down from 19
+Moving elevator 0 up from 14
+Moving elevator 3 down from 19
+Moving elevator 0 up from 14
+Moving elevator 3 down from 18
+Moving elevator 0 up from 15
+Moving elevator 3 down from 18
+Moving elevator 3 down from 17
+Moving elevator 0 up from 15
+Moving elevator 0 up from 16
+Moving elevator 3 down from 17
+Moving elevator 3 down from 16
+Moving elevator 0 up from 16
+Moving elevator 2 up from 26
+Moving elevator 0 up from 17
+Moving elevator 3 down from 16
+Moving elevator 3 down from 15
+Moving elevator 2 up from 26
+Opening elevator 1 at floor 14
+Check capacity:  1 -> 1
+Moving elevator 0 up from 17
+Moving elevator 2 down from 27
+Moving elevator 0 up from 18
+Moving elevator 3 down from 15
+Moving elevator 3 down from 14
+Passenger 49 got off elevator 1 at 14, requested 14
+Passenger 49 trip duration 6336 ms, 633 slots
+Check passenger 32 on floor 14-th : can-on: 0 - can off: 0
+Moving elevator 0 up from 18
+Moving elevator 2 down from 27
+Closing elevator 1 at floor 14
+Moving elevator 0 up from 19
+Moving elevator 2 down from 26
+Moving elevator 3 down from 14
+Moving elevator 3 down from 13
+Moving elevator 0 up from 19
+Moving elevator 2 down from 26
+Moving elevator 0 up from 20
+Moving elevator 2 down from 25
+Moving elevator 3 down from 13
+Opening elevator 3 at floor 12
+Moving elevator 0 up from 20
+Moving elevator 2 down from 25
+Moving elevator 0 up from 21
+Moving elevator 2 down from 24
+Moving elevator 0 up from 21
+Moving elevator 0 up from 22
+Moving elevator 2 down from 24
+Opening elevator 2 at floor 23
+Moving elevator 0 up from 22
+Opening elevator 0 at floor 23
+Moving elevator 1 up from 14
+Moving elevator 1 up from 14
+Moving elevator 1 up from 15
+Opening elevator 3 at floor 12
+Check capacity:  3 -> 1
+Moving elevator 1 up from 15
+Moving elevator 1 up from 16
+Moving elevator 1 up from 16
+Passenger 23 got off elevator 3 at 12, requested 12
+Passenger 23 trip duration 6472 ms, 647 slots
+Opening elevator 2 at floor 23
+Check capacity:  2 -> 1
+Moving elevator 1 up from 17
+Closing elevator 3 at floor 12
+Moving elevator 1 up from 17
+Opening elevator 1 at floor 18
+Opening elevator 0 at floor 23
+Check capacity:  0 -> 1
+Passenger 34 got off elevator 2 at 23, requested 23
+Passenger 34 trip duration 6492 ms, 649 slots
+Check passenger 9 on floor 23-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 23
+Passenger 32 got off elevator 0 at 23, requested 23
+Passenger 32 trip duration 6497 ms, 649 slots
+Check passenger 9 on floor 23-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 23
+Moving elevator 3 up from 12
+Opening elevator 1 at floor 18
+Check capacity:  1 -> 0
+Moving elevator 3 up from 12
+Moving elevator 3 down from 13
+Moving elevator 2 up from 23
+Passenger 1 got on elevator 1 at 18, requested 18
+Check passenger 1 on floor 18-th : can-on: 0 - can off: 0
+Moving elevator 3 down from 13
+Moving elevator 2 up from 23
+Moving elevator 0 up from 23
+Closing elevator 1 at floor 18
+Moving elevator 3 down from 12
+Moving elevator 2 down from 24
+Moving elevator 0 up from 23
+Moving elevator 0 down from 24
+Moving elevator 3 down from 12
+Moving elevator 2 down from 24
+Moving elevator 3 down from 11
+Moving elevator 2 down from 23
+Moving elevator 0 down from 24
+Moving elevator 0 down from 23
+Moving elevator 3 down from 11
+Moving elevator 2 down from 23
+Moving elevator 3 down from 10
+Moving elevator 2 down from 22
+Moving elevator 0 down from 23
+Moving elevator 0 down from 22
+Moving elevator 2 down from 22
+Moving elevator 3 down from 10
+Moving elevator 2 down from 21
+Moving elevator 3 down from 9
+Moving elevator 0 down from 22
+Moving elevator 0 down from 21
+Moving elevator 2 down from 21
+Moving elevator 3 down from 9
+Moving elevator 2 down from 20
+Moving elevator 3 down from 8
+Moving elevator 0 down from 21
+Moving elevator 0 down from 20
+Moving elevator 2 down from 20
+Moving elevator 3 down from 8
+Moving elevator 2 down from 19
+Moving elevator 3 down from 7
+Moving elevator 0 down from 20
+Moving elevator 0 down from 19
+Moving elevator 2 down from 19
+Moving elevator 3 down from 7
+Opening elevator 3 at floor 6
+Moving elevator 2 down from 18
+Moving elevator 0 down from 19
+Moving elevator 0 down from 18
+Moving elevator 2 down from 18
+Moving elevator 2 down from 17
+Moving elevator 0 down from 18
+Moving elevator 0 down from 17
+Moving elevator 1 up from 18
+Moving elevator 2 down from 17
+Moving elevator 2 down from 16
+Moving elevator 0 down from 17
+Moving elevator 0 down from 16
+Moving elevator 1 up from 18
+Moving elevator 1 down from 19
+Moving elevator 2 down from 16
+Moving elevator 2 down from 15
+Moving elevator 0 down from 16
+Moving elevator 0 down from 15
+Moving elevator 1 down from 19
+Moving elevator 1 down from 18
+Moving elevator 2 down from 15
+Moving elevator 2 down from 14
+Moving elevator 0 down from 15
+Moving elevator 0 down from 14
+Moving elevator 1 down from 18
+Moving elevator 1 down from 17
+Moving elevator 2 down from 14
+Moving elevator 2 down from 13
+Moving elevator 0 down from 14
+Moving elevator 0 down from 13
+Moving elevator 1 down from 17
+Moving elevator 1 down from 16
+Moving elevator 2 down from 13
+Moving elevator 2 down from 12
+Moving elevator 0 down from 13
+Moving elevator 0 down from 12
+Moving elevator 1 down from 16
+Moving elevator 2 down from 12
+Moving elevator 1 down from 15
+Moving elevator 2 down from 11
+Moving elevator 0 down from 12
+Moving elevator 0 down from 11
+Moving elevator 1 down from 15
+Moving elevator 2 down from 11
+Moving elevator 1 down from 14
+Moving elevator 2 down from 10
+Opening elevator 3 at floor 6
+Check capacity:  3 -> 0
+Moving elevator 0 down from 11
+Moving elevator 0 down from 10
+Moving elevator 1 down from 14
+Moving elevator 2 down from 10
+Moving elevator 1 down from 13
+Moving elevator 2 down from 9
+Passenger 43 got on elevator 3 at 6, requested 6
+Check passenger 43 on floor 6-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 6
+Moving elevator 0 down from 10
+Moving elevator 0 down from 9
+Moving elevator 1 down from 13
+Moving elevator 2 down from 9
+Opening elevator 1 at floor 12
+Moving elevator 2 down from 8
+Moving elevator 0 down from 9
+Moving elevator 2 down from 8
+Moving elevator 0 down from 8
+Opening elevator 2 at floor 7
+Moving elevator 0 down from 8
+Moving elevator 0 down from 7
+Moving elevator 0 down from 7
+Moving elevator 0 down from 6
+Moving elevator 0 down from 6
+Moving elevator 0 down from 5
+Moving elevator 0 down from 5
+Moving elevator 0 down from 4
+Moving elevator 0 down from 4
+Moving elevator 0 down from 3
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Moving elevator 3 up from 6
+Opening elevator 1 at floor 12
+Check capacity:  1 -> 1
+Moving elevator 3 up from 6
+Opening elevator 3 at floor 7
+Opening elevator 2 at floor 7
+Check capacity:  2 -> 0
+Passenger 1 got off elevator 1 at 12, requested 12
+Closing elevator 1 at floor 12
+Passenger 1 trip duration 6919 ms, 691 slots
+Passenger 46 got on elevator 2 at 7, requested 7
+Check passenger 46 on floor 7-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 7
+Opening elevator 0 at floor 2
+Check capacity:  0 -> 0
+Passenger 40 got on elevator 0 at 2, requested 2
+Check passenger 40 on floor 2-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 2
+Opening elevator 3 at floor 7
+Check capacity:  3 -> 1
+Passenger 43 got off elevator 3 at 7, requested 7
+Passenger 43 trip duration 7015 ms, 701 slots
+Check passenger 46 on floor 7-th : can-on: 0 - can off: 0
+Moving elevator 1 up from 12
+Closing elevator 3 at floor 7
+Moving elevator 1 up from 12
+Moving elevator 1 down from 13
+Moving elevator 2 up from 7
+Moving elevator 1 down from 13
+Moving elevator 2 up from 7
+Moving elevator 1 down from 12
+Moving elevator 2 down from 8
+Moving elevator 1 down from 12
+Moving elevator 1 down from 11
+Moving elevator 2 down from 8
+Moving elevator 2 down from 7
+Moving elevator 1 down from 11
+Moving elevator 1 down from 10
+Moving elevator 2 down from 7
+Moving elevator 2 down from 6
+Moving elevator 1 down from 10
+Moving elevator 1 down from 9
+Moving elevator 2 down from 6
+Moving elevator 2 down from 5
+Moving elevator 1 down from 9
+Moving elevator 1 down from 8
+Moving elevator 2 down from 5
+Opening elevator 2 at floor 4
+Moving elevator 0 up from 2
+Moving elevator 1 down from 8
+Moving elevator 1 down from 7
+Moving elevator 0 up from 2
+Moving elevator 0 up from 3
+Moving elevator 1 down from 7
+Moving elevator 1 down from 6
+Moving elevator 3 up from 7
+Moving elevator 0 up from 3
+Moving elevator 0 up from 4
+Moving elevator 1 down from 6
+Moving elevator 1 down from 5
+Moving elevator 3 up from 7
+Moving elevator 3 up from 8
+Moving elevator 0 up from 4
+Moving elevator 0 up from 5
+Moving elevator 1 down from 5
+Moving elevator 1 down from 4
+Moving elevator 3 up from 8
+Moving elevator 3 up from 9
+Moving elevator 0 up from 5
+Moving elevator 0 up from 6
+Moving elevator 1 down from 4
+Opening elevator 1 at floor 3
+Moving elevator 3 up from 9
+Moving elevator 3 up from 10
+Moving elevator 0 up from 6
+Moving elevator 0 up from 7
+Moving elevator 3 up from 10
+Moving elevator 3 up from 11
+Moving elevator 0 up from 7
+Moving elevator 0 up from 8
+Moving elevator 3 up from 11
+Moving elevator 3 up from 12
+Moving elevator 0 up from 8
+Moving elevator 0 up from 9
+Moving elevator 3 up from 12
+Moving elevator 3 up from 13
+Opening elevator 2 at floor 4
+Check capacity:  2 -> 1
+Moving elevator 0 up from 9
+Moving elevator 0 up from 10
+Moving elevator 3 up from 13
+Moving elevator 3 up from 14
+Passenger 46 got off elevator 2 at 4, requested 4
+Closing elevator 2 at floor 4
+Passenger 46 trip duration 7211 ms, 721 slots
+Moving elevator 0 up from 10
+Moving elevator 0 up from 11
+Moving elevator 3 up from 14
+Moving elevator 3 up from 15
+Moving elevator 0 up from 11
+Moving elevator 0 up from 12
+Moving elevator 3 up from 15
+Moving elevator 3 up from 16
+Moving elevator 0 up from 12
+Moving elevator 0 up from 13
+Moving elevator 3 up from 16
+Moving elevator 3 up from 17
+Moving elevator 0 up from 13
+Moving elevator 0 up from 14
+Moving elevator 3 up from 17
+Moving elevator 3 up from 18
+Opening elevator 1 at floor 3
+Check capacity:  1 -> 0
+Moving elevator 0 up from 14
+Opening elevator 0 at floor 15
+Moving elevator 3 up from 18
+Passenger 5 got on elevator 1 at 3, requested 3
+Moving elevator 3 up from 19
+Check passenger 5 on floor 3-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 3
+Moving elevator 3 up from 19
+Moving elevator 3 up from 20
+Moving elevator 3 up from 20
+Moving elevator 3 up from 21
+Moving elevator 3 up from 21
+Moving elevator 3 up from 22
+Moving elevator 2 up from 4
+Moving elevator 3 up from 22
+Moving elevator 3 up from 23
+Moving elevator 2 up from 4
+Moving elevator 2 down from 5
+Moving elevator 3 up from 23
+Moving elevator 3 up from 24
+Moving elevator 2 down from 5
+Moving elevator 2 down from 4
+Moving elevator 3 up from 24
+Opening elevator 3 at floor 25
+Moving elevator 2 down from 4
+Moving elevator 2 down from 3
+Moving elevator 2 down from 3
+Moving elevator 2 down from 2
+Opening elevator 0 at floor 15
+Check capacity:  0 -> 1
+Moving elevator 1 up from 3
+Moving elevator 2 down from 2
+Moving elevator 2 down from 1
+Passenger 40 got off elevator 0 at 15, requested 15
+Passenger 40 trip duration 7378 ms, 737 slots
+Closing elevator 0 at floor 15
+Moving elevator 1 up from 3
+Opening elevator 1 at floor 4
+Moving elevator 2 down from 1
+Opening elevator 2 at floor 0
+Opening elevator 3 at floor 25
+Check capacity:  3 -> 0
+Passenger 47 got on elevator 3 at 25, requested 25
+Check passenger 47 on floor 25-th : can-on: 0 - can off: 0
+Closing elevator 3 at floor 25
+Moving elevator 0 up from 15
+Opening elevator 1 at floor 4
+Check capacity:  1 -> 1
+Opening elevator 2 at floor 0
+Check capacity:  2 -> 0
+Moving elevator 0 up from 15
+Moving elevator 0 down from 16
+Passenger 5 got off elevator 1 at 4, requested 4
+Passenger 5 trip duration 7491 ms, 749 slots
+Closing elevator 1 at floor 4
+Passenger 38 got on elevator 2 at 0, requested 0
+Check passenger 38 on floor 0-th : can-on: 0 - can off: 0
+Closing elevator 2 at floor 0
+Moving elevator 0 down from 16
+Moving elevator 0 down from 15
+Moving elevator 0 down from 15
+Moving elevator 0 down from 14
+Moving elevator 0 down from 14
+Moving elevator 0 down from 13
+Moving elevator 0 down from 13
+Moving elevator 0 down from 12
+Moving elevator 0 down from 12
+Moving elevator 0 down from 11
+Moving elevator 3 up from 25
+Moving elevator 0 down from 11
+Moving elevator 0 down from 10
+Moving elevator 3 up from 25
+Moving elevator 3 down from 26
+Moving elevator 0 down from 10
+Moving elevator 0 down from 9
+Moving elevator 3 down from 26
+Moving elevator 3 down from 25
+Moving elevator 0 down from 9
+Moving elevator 3 down from 25
+Moving elevator 0 down from 8
+Moving elevator 1 up from 4
+Moving elevator 3 down from 24
+Moving elevator 2 up from 0
+Moving elevator 0 down from 8
+Moving elevator 0 down from 7
+Moving elevator 1 up from 4
+Moving elevator 2 up from 0
+Moving elevator 3 down from 24
+Moving elevator 1 down from 5
+Moving elevator 2 up from 1
+Moving elevator 3 down from 23
+Moving elevator 0 down from 7
+Moving elevator 0 down from 6
+Moving elevator 1 down from 5
+Moving elevator 2 up from 1
+Moving elevator 3 down from 23
+Moving elevator 1 up from 4
+Moving elevator 2 up from 2
+Moving elevator 3 down from 22
+Moving elevator 0 down from 6
+Opening elevator 0 at floor 5
+Moving elevator 1 up from 4
+Moving elevator 2 up from 2
+Moving elevator 3 down from 22
+Moving elevator 1 up from 5
+Moving elevator 2 up from 3
+Moving elevator 3 down from 21
+Moving elevator 1 up from 5
+Moving elevator 2 up from 3
+Moving elevator 1 up from 6
+Moving elevator 2 up from 4
+Moving elevator 3 down from 21
+Moving elevator 3 down from 20
+Moving elevator 2 up from 4
+Moving elevator 1 up from 6
+Moving elevator 2 up from 5
+Moving elevator 3 down from 20
+Moving elevator 1 up from 7
+Moving elevator 3 down from 19
+Moving elevator 2 up from 5
+Moving elevator 2 up from 6
+Moving elevator 1 up from 7
+Moving elevator 3 down from 19
+Moving elevator 1 up from 8
+Opening elevator 3 at floor 18
+Moving elevator 2 up from 6
+Opening elevator 2 at floor 7
+Moving elevator 1 up from 8
+Moving elevator 1 up from 9
+Moving elevator 1 up from 9
+Moving elevator 1 up from 10
+Moving elevator 1 up from 10
+Moving elevator 1 up from 11
+Moving elevator 1 up from 11
+Moving elevator 1 up from 12
+Opening elevator 0 at floor 5
+Check capacity:  0 -> 0
+Moving elevator 1 up from 12
+Moving elevator 1 up from 13
+Passenger 48 got on elevator 0 at 5, requested 5
+Check passenger 48 on floor 5-th : can-on: 0 - can off: 0
+Moving elevator 1 up from 13
+Closing elevator 0 at floor 5
+Moving elevator 1 up from 14
+Moving elevator 1 up from 14
+Moving elevator 1 up from 15
+Moving elevator 1 up from 15
+Moving elevator 1 up from 16
+Opening elevator 3 at floor 18
+Check capacity:  3 -> 1
+Opening elevator 2 at floor 7
+Check capacity:  2 -> 1
+Moving elevator 1 up from 16
+Passenger 47 got off elevator 3 at 18, requested 18
+Passenger 47 trip duration 7781 ms, 778 slots
+Moving elevator 1 up from 17
+Closing elevator 3 at floor 18
+Passenger 38 got off elevator 2 at 7, requested 7
+Passenger 38 trip duration 7795 ms, 779 slots
+Closing elevator 2 at floor 7
+Moving elevator 1 up from 17
+Moving elevator 1 up from 18
+Moving elevator 1 up from 18
+Moving elevator 1 up from 19
+Moving elevator 1 up from 19
+Opening elevator 1 at floor 20
+Moving elevator 0 up from 5
+Moving elevator 0 up from 5
+Moving elevator 0 down from 6
+Moving elevator 0 down from 6
+Moving elevator 0 down from 5
+Moving elevator 0 down from 5
+Moving elevator 0 down from 4
+Moving elevator 3 up from 18
+Moving elevator 0 down from 4
+Moving elevator 0 down from 3
+Moving elevator 2 up from 7
+Moving elevator 3 up from 18
+Moving elevator 3 down from 19
+Moving elevator 0 down from 3
+Moving elevator 0 down from 2
+Moving elevator 2 up from 7
+Moving elevator 2 down from 8
+Moving elevator 3 down from 19
+Moving elevator 3 down from 18
+Moving elevator 0 down from 2
+Moving elevator 0 down from 1
+Moving elevator 2 down from 8
+Moving elevator 2 down from 7
+Moving elevator 3 down from 18
+Moving elevator 3 down from 17
+Opening elevator 1 at floor 20
+Check capacity:  1 -> 0
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Moving elevator 2 down from 7
+Moving elevator 2 down from 6
+Moving elevator 3 down from 17
+Opening elevator 3 at floor 16
+Passenger 45 got on elevator 1 at 20, requested 20
+Check passenger 45 on floor 20-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 20
+Moving elevator 2 down from 6
+Moving elevator 2 down from 5
+Moving elevator 2 down from 5
+Moving elevator 2 down from 4
+Moving elevator 2 down from 4
+Moving elevator 2 down from 3
+Moving elevator 2 down from 3
+Moving elevator 2 down from 2
+Moving elevator 2 down from 2
+Moving elevator 2 down from 1
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Opening elevator 0 at floor 0
+Check capacity:  0 -> 1
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Opening elevator 3 at floor 16
+Check capacity:  3 -> 0
+Moving elevator 1 up from 20
+Passenger 48 got off elevator 0 at 0, requested 0
+Closing elevator 0 at floor 0
+Passenger 48 trip duration 8037 ms, 803 slots
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Passenger 7 got on elevator 3 at 16, requested 16
+Check passenger 7 on floor 16-th : can-on: 0 - can off: 0
+Moving elevator 1 up from 20
+Closing elevator 3 at floor 16
+Moving elevator 1 down from 21
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 down from 21
+Moving elevator 1 down from 20
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 down from 20
+Moving elevator 1 down from 19
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 down from 19
+Moving elevator 1 down from 18
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 down from 18
+Moving elevator 1 down from 17
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 down from 17
+Moving elevator 1 down from 16
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 down from 16
+Moving elevator 1 down from 15
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 down from 15
+Moving elevator 1 down from 14
+Moving elevator 0 up from 0
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 down from 14
+Moving elevator 1 down from 13
+Moving elevator 3 up from 16
+Moving elevator 0 up from 0
+Moving elevator 0 down from 1
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 down from 13
+Moving elevator 1 down from 12
+Moving elevator 3 up from 16
+Moving elevator 3 down from 17
+Moving elevator 0 down from 1
+Moving elevator 0 up from 0
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 down from 12
+Moving elevator 1 down from 11
+Moving elevator 3 down from 17
+Moving elevator 0 up from 0
+Moving elevator 3 down from 16
+Moving elevator 0 up from 1
+Moving elevator 2 down from 1
+Moving elevator 1 down from 11
+Moving elevator 2 up from 0
+Moving elevator 1 down from 10
+Moving elevator 3 down from 16
+Moving elevator 3 down from 15
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Moving elevator 2 up from 0
+Moving elevator 1 down from 10
+Moving elevator 2 down from 1
+Moving elevator 0 up from 2
+Moving elevator 3 down from 15
+Moving elevator 1 down from 9
+Moving elevator 0 up from 3
+Moving elevator 3 down from 14
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 down from 9
+Moving elevator 0 up from 3
+Moving elevator 3 down from 14
+Moving elevator 1 down from 8
+Moving elevator 0 up from 4
+Moving elevator 3 down from 13
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 down from 13
+Moving elevator 0 up from 4
+Moving elevator 1 down from 8
+Moving elevator 3 down from 12
+Moving elevator 0 up from 5
+Moving elevator 1 down from 7
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 down from 12
+Moving elevator 0 up from 5
+Moving elevator 1 down from 7
+Moving elevator 3 down from 11
+Opening elevator 1 at floor 6
+Moving elevator 0 up from 6
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 down from 11
+Moving elevator 0 up from 6
+Moving elevator 0 up from 7
+Moving elevator 3 down from 10
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 0 up from 7
+Moving elevator 3 down from 10
+Moving elevator 0 up from 8
+Moving elevator 3 down from 9
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 0 up from 8
+Moving elevator 3 down from 9
+Moving elevator 0 up from 9
+Moving elevator 3 down from 8
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 0 up from 9
+Moving elevator 3 down from 8
+Opening elevator 3 at floor 7
+Moving elevator 0 up from 10
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 0 up from 10
+Moving elevator 0 up from 11
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 0 up from 11
+Moving elevator 0 up from 12
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 0 up from 12
+Moving elevator 0 up from 13
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 0 up from 13
+Moving elevator 0 up from 14
+Opening elevator 1 at floor 6
+Check capacity:  1 -> 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 0 up from 14
+Moving elevator 0 up from 15
+Passenger 45 got off elevator 1 at 6, requested 6
+Passenger 45 trip duration 8344 ms, 834 slots
+Closing elevator 1 at floor 6
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 0 up from 15
+Moving elevator 0 up from 16
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 0 up from 16
+Opening elevator 0 at floor 17
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Opening elevator 3 at floor 7
+Check capacity:  3 -> 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Passenger 7 got off elevator 3 at 7, requested 7
+Passenger 7 trip duration 8393 ms, 839 slots
+Closing elevator 3 at floor 7
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 up from 6
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 up from 6
+Moving elevator 1 up from 7
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Opening elevator 0 at floor 17
+Check capacity:  0 -> 0
+Moving elevator 1 up from 7
+Moving elevator 1 up from 8
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Passenger 44 got on elevator 0 at 17, requested 17
+Check passenger 44 on floor 17-th : can-on: 0 - can off: 0
+Closing elevator 0 at floor 17
+Moving elevator 1 up from 8
+Moving elevator 1 up from 9
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 up from 9
+Moving elevator 1 up from 10
+Moving elevator 3 up from 7
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 1 up from 10
+Moving elevator 1 up from 11
+Moving elevator 3 up from 7
+Moving elevator 3 down from 8
+Moving elevator 2 up from 0
+Moving elevator 1 up from 11
+Moving elevator 2 down from 1
+Moving elevator 1 up from 12
+Moving elevator 3 down from 8
+Moving elevator 3 down from 7
+Moving elevator 2 down from 1
+Moving elevator 1 up from 12
+Moving elevator 2 up from 0
+Moving elevator 3 down from 7
+Moving elevator 1 up from 13
+Moving elevator 3 down from 6
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 up from 13
+Moving elevator 3 down from 6
+Moving elevator 1 up from 14
+Moving elevator 3 down from 5
+Moving elevator 2 down from 1
+Moving elevator 1 up from 14
+Moving elevator 2 up from 0
+Moving elevator 3 down from 5
+Moving elevator 1 up from 15
+Moving elevator 3 down from 4
+Moving elevator 2 up from 0
+Moving elevator 1 up from 15
+Moving elevator 3 down from 4
+Moving elevator 1 up from 16
+Moving elevator 3 down from 3
+Moving elevator 2 down from 1
+Moving elevator 1 up from 16
+Moving elevator 3 down from 3
+Moving elevator 2 down from 1
+Moving elevator 1 up from 17
+Moving elevator 0 up from 17
+Moving elevator 3 down from 2
+Moving elevator 2 up from 0
+Moving elevator 1 up from 17
+Moving elevator 3 down from 2
+Moving elevator 0 up from 17
+Moving elevator 1 up from 18
+Moving elevator 2 up from 0
+Moving elevator 0 down from 18
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 1 up from 18
+Moving elevator 0 down from 18
+Moving elevator 3 down from 1
+Moving elevator 1 up from 19
+Moving elevator 2 down from 1
+Moving elevator 0 down from 17
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 1 up from 19
+Moving elevator 1 up from 20
+Moving elevator 0 down from 17
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 0 down from 16
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 1 up from 20
+Moving elevator 1 up from 21
+Moving elevator 0 down from 16
+Moving elevator 3 down from 1
+Moving elevator 0 down from 15
+Moving elevator 2 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 1 up from 21
+Moving elevator 1 up from 22
+Moving elevator 0 down from 15
+Moving elevator 0 down from 14
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 1 up from 22
+Opening elevator 1 at floor 23
+Moving elevator 0 down from 14
+Moving elevator 3 down from 1
+Moving elevator 0 down from 13
+Moving elevator 2 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 0 down from 13
+Moving elevator 0 down from 12
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 0 down from 12
+Moving elevator 3 down from 1
+Moving elevator 0 down from 11
+Moving elevator 2 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 0 down from 11
+Moving elevator 0 down from 10
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 0 down from 10
+Moving elevator 0 down from 9
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 0 down from 9
+Opening elevator 0 at floor 8
+Moving elevator 3 up from 0
+Moving elevator 2 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 down from 1
+Opening elevator 1 at floor 23
+Moving elevator 2 up from 0
+Check capacity:  1 -> 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Passenger 9 got on elevator 1 at 23, requested 23
+Check passenger 9 on floor 23-th : can-on: 0 - can off: 0
+Closing elevator 1 at floor 23
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 up from 0
+Opening elevator 0 at floor 8
+Check capacity:  0 -> 1
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Passenger 44 got off elevator 0 at 8, requested 8
+Passenger 44 trip duration 8836 ms, 883 slots
+Closing elevator 0 at floor 8
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 up from 23
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 2 down from 1
+Moving elevator 1 up from 23
+Moving elevator 2 up from 0
+Moving elevator 1 down from 24
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 1 down from 24
+Moving elevator 2 up from 0
+Moving elevator 1 down from 23
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 1 down from 23
+Moving elevator 1 down from 22
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 1 down from 22
+Moving elevator 1 down from 21
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 1 down from 21
+Moving elevator 1 down from 20
+Moving elevator 2 down from 1
+Moving elevator 0 up from 8
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 1 down from 20
+Moving elevator 1 down from 19
+Moving elevator 0 up from 8
+Moving elevator 2 up from 0
+Moving elevator 0 down from 9
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 1 down from 19
+Moving elevator 3 up from 0
+Opening elevator 1 at floor 18
+Moving elevator 0 down from 9
+Moving elevator 2 down from 1
+Moving elevator 0 down from 8
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 0 down from 8
+Moving elevator 2 up from 0
+Moving elevator 0 down from 7
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 0 down from 7
+Moving elevator 2 down from 1
+Moving elevator 0 down from 6
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 0 down from 6
+Moving elevator 2 up from 0
+Moving elevator 0 down from 5
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 0 down from 5
+Moving elevator 2 down from 1
+Moving elevator 0 down from 4
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 0 down from 4
+Moving elevator 2 up from 0
+Moving elevator 0 down from 3
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 0 down from 3
+Moving elevator 2 down from 1
+Moving elevator 0 down from 2
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Moving elevator 0 down from 2
+Moving elevator 2 up from 0
+Moving elevator 0 down from 1
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Opening elevator 1 at floor 18
+Check capacity:  1 -> 1
+Moving elevator 0 down from 1
+Moving elevator 0 up from 0
+Moving elevator 2 down from 1
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 3 down from 1
+Passenger 9 got off elevator 1 at 18, requested 18
+Passenger 9 trip duration 9069 ms, 906 slots
+Closing elevator 1 at floor 18
+Moving elevator 0 up from 0
+Moving elevator 0 down from 1
+Moving elevator 2 up from 0
+Moving elevator 2 down from 1
+Moving elevator 3 down from 1
+Moving elevator 3 up from 0
+Moving elevator 0 down from 1
+Moving elevator 2 down from 1
+Moving elevator 3 up from 0
+Moving elevator 1 up from 18
+Moving elevator 1 up from 18
+All 50 passengers finished their 1 trips each.
+Total time elapsed: 9227 ms, 922 slots
